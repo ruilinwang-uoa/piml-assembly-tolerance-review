@@ -1,0 +1,20 @@
+{
+  "total": 94,
+  "research": 72,
+  "sim": 53,
+  "meas": 19,
+  "piml_dt_n": 25,
+  "piml_dt_sim": 18,
+  "datadriven_n": 15,
+  "datadriven_sim": 10,
+  "sim_pct": 73.6,
+  "meas_pct": 26.4,
+  "piml_dt_pct": 72.0,
+  "datadriven_pct": 66.7,
+  "method": "v2 base + documented delta (A10/A11/M15, all simulation-only research)",
+  "added": [
+    "A10(仿真)",
+    "A11(仿真)",
+    "M15(仿真)"
+  ]
+}

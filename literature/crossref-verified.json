@@ -1,0 +1,1091 @@
+{
+ "A01": {
+  "ref": "Xu H., Lu M., Wang W., Xing H., Liu L., Qin W., Lv Y., Zhang J. (2026) A Dynamic Prediction Method for Assembly Quality Based on Physics-Informed Machine Learning. Journal of Computing and Information Science in Engineering 26(11) https://doi.org/10.1115/1.4072491",
+  "title_match": true,
+  "cr_title": "A Dynamic Prediction Method for Assembly Quality Based on Physics-Informed Machine Learning",
+  "my_title": "A Dynamic Prediction Method for Assembly Quality Based on Physics-Informed Machi",
+  "cr_year": "2026",
+  "cr_venue": "Journal of Computing and Information Science in Engineering",
+  "cr_cites": 0
+ },
+ "A02": {
+  "ref": "Shen H., Jing X., Liu Y., Zhao G., Du X. (2026) Facilitating digital assembly: A physics-informed graph learning framework for prediction of assembly deviations in bolted flange connections. Journal of Manufacturing Systems 88: 441-453 https://doi.org/10.1016/j.jmsy.2026.06.014",
+  "title_match": true,
+  "cr_title": "Facilitating digital assembly: A physics-informed graph learning framework for prediction of assembly deviations in bolted flange connections",
+  "my_title": "Facilitating digital assembly: A physics-informed graph learning framework for p",
+  "cr_year": "2026",
+  "cr_venue": "Journal of Manufacturing Systems",
+  "cr_cites": 1
+ },
+ "A03": {
+  "ref": "AlBahar A., Kim I., Wang X., Yue X. (2023) Physics-Constrained Bayesian Optimization for Optimal Actuators Placement in Composite Structures Assembly. IEEE Transactions on Automation Science and Engineering 20(4): 2772-2783 https://doi.org/10.1109/tase.2022.3200376",
+  "title_match": true,
+  "cr_title": "Physics-Constrained Bayesian Optimization for Optimal Actuators Placement in Composite Structures Assembly",
+  "my_title": "Physics-Constrained Bayesian Optimization for Optimal Actuators Placement in Com",
+  "cr_year": "2023",
+  "cr_venue": "IEEE Transactions on Automation Science and Engineering",
+  "cr_cites": 18
+ },
+ "A04": {
+  "ref": "Yan J., Ding H. (2026) A hybrid rigid-compliant computational framework for large-scale assembly: Integrating torsor kinematics with physics-informed graph learning. Engineering Structures 362: 122965 https://doi.org/10.1016/j.engstruct.2026.122965",
+  "title_match": true,
+  "cr_title": "A hybrid rigid-compliant computational framework for large-scale assembly: Integrating torsor kinematics with physics-informed graph learning",
+  "my_title": "A hybrid rigid-compliant computational framework for large-scale assembly: Integ",
+  "cr_year": "2026",
+  "cr_venue": "Engineering Structures",
+  "cr_cites": 0
+ },
+ "A05": {
+  "ref": "Wang Y., Lutz T., Yue X., Du J. (2025) SmartFixture: Physics-guided reinforcement learning for automatic fixture layout design in manufacturing systems. IISE Transactions 57(11): 1360-1375 https://doi.org/10.1080/24725854.2024.2401041",
+  "title_match": true,
+  "cr_title": "SmartFixture: Physics-guided reinforcement learning for automatic fixture layout design in manufacturing systems",
+  "my_title": "SmartFixture: Physics-guided reinforcement learning for automatic fixture layout",
+  "cr_year": "2025",
+  "cr_venue": "IISE Transactions",
+  "cr_cites": 2
+ },
+ "A06": {
+  "ref": "Hu E., He J., Zhou J., Ren Z., Sun H., Jiang T., Feng H., Chen Y. (2025) Fast and accurate active alignment of camera lenses with physics-informed deep learning. Optics Express 33(10): 21256 https://doi.org/10.1364/oe.560123",
+  "title_match": true,
+  "cr_title": "Fast and accurate active alignment of camera lenses with physics-informed deep learning",
+  "my_title": "Fast and accurate active alignment of camera lenses with physics-informed deep l",
+  "cr_year": "2025",
+  "cr_venue": "Optics Express",
+  "cr_cites": 7
+ },
+ "A07": {
+  "ref": "Wang J., Tan J., Liu Y., Zhong J. (2026) Physics-Informed Multi-Fidelity Graph Learning for Sequence-Aware Residual Bolt Preload Prediction in Hyperelastic-Sealed Flanges. Sensors 26(17): 5534 https://doi.org/10.3390/s26175534",
+  "title_match": true,
+  "cr_title": "Physics-Informed Multi-Fidelity Graph Learning for Sequence-Aware Residual Bolt Preload Prediction in Hyperelastic-Sealed Flanges",
+  "my_title": "Physics-Informed Multi-Fidelity Graph Learning for Sequence-Aware Residual Bolt",
+  "cr_year": "2026",
+  "cr_venue": "Sensors",
+  "cr_cites": 0
+ },
+ "A08": {
+  "ref": "Sun H., Lin L., Jiang L., Zheng S., Wang Q., Ke Y. (2026) A manifold learning-assisted generative adversarial network for rapid assembly stress field prediction in complex composite aircraft panels. Thin-Walled Structures 226: 114962 https://doi.org/10.1016/j.tws.2026.114962",
+  "title_match": true,
+  "cr_title": "A manifold learning-assisted generative adversarial network for rapid assembly stress field prediction in complex composite aircraft panels",
+  "my_title": "A manifold learning-assisted generative adversarial network for rapid assembly s",
+  "cr_year": "2026",
+  "cr_venue": "Thin-Walled Structures",
+  "cr_cites": 0
+ },
+ "A09": {
+  "ref": "Zhu S., Xing Y., Cao J., Zhang X., Wang Y. (2026) Assembly‐Deviation‐Induced Sealing Leakage in PEMFC Stacks: Failure Mechanisms, Prediction Models, and Process Regulation. Fuel Cells 26(5) https://doi.org/10.1002/fuce.70156",
+  "title_match": true,
+  "cr_title": "Assembly‐Deviation‐Induced Sealing Leakage in PEMFC Stacks: Failure Mechanisms, Prediction Models, and Process Regulation",
+  "my_title": "Assembly‐Deviation‐Induced Sealing Leakage in PEMFC Stacks: Failure Mechanisms,",
+  "cr_year": "2026",
+  "cr_venue": "Fuel Cells",
+  "cr_cites": 0
+ },
+ "A10": {
+  "ref": "Kopatsch J., Wartzack S., Goetz S. (2026) Leveraging Physics-Informed Neural Networks for Efficient Tolerance Analysis. Procedia CIRP 145: 135-140 https://doi.org/10.1016/j.procir.2026.03.130",
+  "title_match": true,
+  "cr_title": "Leveraging Physics-Informed Neural Networks for Efficient Tolerance Analysis",
+  "my_title": "Leveraging Physics-Informed Neural Networks for Efficient Tolerance Analysis",
+  "cr_year": "2026",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 0
+ },
+ "A11": {
+  "ref": "Xu S., Huang X., Li S., Hou G. (2026) Adaptive Planning Method for ERS Point Layout in Aircraft Assembly Driven by Physics-Based Data-Driven Surrogate Model. Sensors 26(3): 955 https://doi.org/10.3390/s26030955",
+  "title_match": true,
+  "cr_title": "Adaptive Planning Method for ERS Point Layout in Aircraft Assembly Driven by Physics-Based Data-Driven Surrogate Model",
+  "my_title": "Adaptive Planning Method for ERS Point Layout in Aircraft Assembly Driven by Physics-Based Data-Driven Surrogate Model",
+  "cr_year": "2026",
+  "cr_venue": "Sensors",
+  "cr_cites": 1
+ },
+ "A12": {
+  "ref": "Tréheux G., Li Y., Moriz A., Göppert A., Schmitt R. (2026) Machine learning based surrogate modeling of the deformation behavior of large compliant thin-walled structures. Procedia CIRP 145: 116-122 https://doi.org/10.1016/j.procir.2026.03.117",
+  "title_match": true,
+  "cr_title": "Machine learning based surrogate modeling of the deformation behavior of large compliant thin-walled structures",
+  "my_title": "Machine learning based surrogate modeling of the deformation behavior of large compliant thin-w",
+  "cr_year": "2026",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 0
+ },
+ "A13": {
+  "ref": "Farrag A., Kim J., Zhang Z., Won D., Jin Y. (2026) ThermoDynaSMT: A Physics-Informed Machine Learning Model for Component Displacement in Surface Mount Technology. Journal of Electronic Packaging 148(3) https://doi.org/10.1115/1.4070105",
+  "title_match": true,
+  "cr_title": "ThermoDynaSMT: A Physics-Informed Machine Learning Model for Component Displacement in Surface Mount Technology",
+  "my_title": "ThermoDynaSMT: A Physics-Informed Machine Learning Model for Component Displacement in Surface",
+  "cr_year": "2026",
+  "cr_venue": "Journal of Electronic Packaging",
+  "cr_cites": 1
+ },
+ "A14": {
+  "ref": "Barot M., Kim J., Won D., Yoon S. (2026) PhyViT-GAN: Physics-Guided MobileViT-GAN for precise self-alignment image generation. The International Journal of Advanced Manufacturing Technology 146(3): 1875-1894 https://doi.org/10.1007/s00170-025-17227-7",
+  "title_match": true,
+  "cr_title": "PhyViT-GAN: Physics-Guided MobileViT-GAN for precise self-alignment image generation",
+  "my_title": "PhyViT-GAN: Physics-Guided MobileViT-GAN for precise self-alignment image generation",
+  "cr_year": "2026",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 1
+ },
+ "D01": {
+  "ref": "Liu M., He Y., Gao C., Zhang T., Xu Z., Bai X., Hou L. (2026) Digital twin-based high-precision assembly method for large-diameter cabin section docking. Journal of Manufacturing Systems 86: 1-21 https://doi.org/10.1016/j.jmsy.2026.02.019",
+  "title_match": true,
+  "cr_title": "Digital twin-based high-precision assembly method for large-diameter cabin section docking",
+  "my_title": "Digital twin-based high-precision assembly method for large-diameter cabin section docking",
+  "cr_year": "2026",
+  "cr_venue": "Journal of Manufacturing Systems",
+  "cr_cites": 1
+ },
+ "D02": {
+  "ref": "Cheng D., Hu B., Feng Y., Yang J., Zhong R., Wang T., Tan J. (2025) Digital Twin-driven Inversion of Assembly Precision for Industrial Equipment: Challenges, Progress and Perspectives. Chinese Journal of Mechanical Engineering 38(1) https://doi.org/10.1186/s10033-025-01224-8",
+  "title_match": true,
+  "cr_title": "Digital Twin-driven Inversion of Assembly Precision for Industrial Equipment: Challenges, Progress and Perspectives",
+  "my_title": "Digital Twin-driven Inversion of Assembly Precision for Industrial Equipment: Ch",
+  "cr_year": "2025",
+  "cr_venue": "Chinese Journal of Mechanical Engineering",
+  "cr_cites": 8
+ },
+ "D03": {
+  "ref": "Sjöberg A., Önnheim M., Frost O., Cronrath C., Gustavsson E., Lennartson B., Jirstrand M. (2023) Online geometry assurance in individualized production by feedback control and model calibration of digital twins. Journal of Manufacturing Systems 66: 71-81 https://doi.org/10.1016/j.jmsy.2022.11.011",
+  "title_match": true,
+  "cr_title": "Online geometry assurance in individualized production by feedback control and model calibration of digital twins",
+  "my_title": "Online geometry assurance in individualized production by feedback control and m",
+  "cr_year": "2023",
+  "cr_venue": "Journal of Manufacturing Systems",
+  "cr_cites": 19
+ },
+ "D04": {
+  "ref": "Sadeghi Tabar R., Zheng H., Litwa F., Paetzold-Byhain K., Lindkvist L., Wärmefjord K., Söderberg R. (2024) Digital Twin-Based Clamping Sequence Analysis and Optimization for Improved Geometric Quality. Applied Sciences 14(2): 510 https://doi.org/10.3390/app14020510",
+  "title_match": true,
+  "cr_title": "Digital Twin-Based Clamping Sequence Analysis and Optimization for Improved Geometric Quality",
+  "my_title": "Digital Twin-Based Clamping Sequence Analysis and Optimization for Improved Geom",
+  "cr_year": "2024",
+  "cr_venue": "Applied Sciences",
+  "cr_cites": 11
+ },
+ "D05": {
+  "ref": "Li L., Liu D., Liu J., Zhou H., Zhou J. (2020) Quality Prediction and Control of Assembly and Welding Process for Ship Group Product Based on Digital Twin. Scanning 2020: 1-13 https://doi.org/10.1155/2020/3758730",
+  "title_match": true,
+  "cr_title": "Quality Prediction and Control of Assembly and Welding Process for Ship Group Product Based on Digital Twin",
+  "my_title": "Quality Prediction and Control of Assembly and Welding Process for Ship Group Pr",
+  "cr_year": "2020",
+  "cr_venue": "Scanning",
+  "cr_cites": 37
+ },
+ "D06": {
+  "ref": "Alfattani R., Hotami M. (2026) Digital twin–driven multiscale modelling for real-time defect prediction in metal additive manufacturing. Scientific Reports 16(1) https://doi.org/10.1038/s41598-026-58348-7",
+  "title_match": true,
+  "cr_title": "Digital twin–driven multiscale modelling for real-time defect prediction in metal additive manufacturing",
+  "my_title": "Digital twin–driven multiscale modelling for real-time defect prediction in metal additive manu",
+  "cr_year": "2026",
+  "cr_venue": "Scientific Reports",
+  "cr_cites": 2
+ },
+ "D07": {
+  "ref": "GALFIONE A., WESTERHAUSEN S., AMEDURI S., TOTARO G., ESPOSITO M., LACHMAYER R., GHERLONE M. (2025) Structural Health Monitoring of a Satellite Antenna: A Benchmark Between the Modal Method, iFEM Coupled with Modal Strain Expansion, and a Physics-Informed Neural Network. Proceedings of the 15th International Workshop on Structural Health Monitoring https://doi.org/10.12783/shm2025/37480",
+  "title_match": true,
+  "cr_title": "Structural Health Monitoring of a Satellite Antenna: A Benchmark Between the Modal Method, iFEM Coupled with Modal Strain Expansion, and a Physics-Informed Neural Network",
+  "my_title": "Structural Health Monitoring of a Satellite Antenna: A Benchmark Between the Modal Method, iFEM",
+  "cr_year": "2025",
+  "cr_venue": "Proceedings of the 15th International Workshop on Structural Health Monitoring",
+  "cr_cites": 1
+ },
+ "D10": {
+  "ref": "Kim H., Kontar R., Okwudire C. (2024) Intelligent Feedrate Optimization Using an Uncertainty-Aware Digital Twin Within a Model Predictive Control Framework. IEEE Access 12: 49947-49961 https://doi.org/10.1109/access.2024.3384471",
+  "title_match": true,
+  "cr_title": "Intelligent Feedrate Optimization Using an Uncertainty-Aware Digital Twin Within a Model Predictive Control Framework",
+  "my_title": "Intelligent Feedrate Optimization Using an Uncertainty-Aware Digital Twin Within a Model Predic",
+  "cr_year": "2024",
+  "cr_venue": "IEEE Access",
+  "cr_cites": 12
+ },
+ "M01": {
+  "ref": "Liu Y., Zhao Y., Lin Q., Pan W., Wang W., Ge E. (2023) DeviationGAN: A generative end-to-end approach for the deviation prediction of sheet metal assembly. Mechanical Systems and Signal Processing 204: 110822 https://doi.org/10.1016/j.ymssp.2023.110822",
+  "title_match": true,
+  "cr_title": "DeviationGAN: A generative end-to-end approach for the deviation prediction of sheet metal assembly",
+  "my_title": "DeviationGAN: A generative end-to-end approach for the deviation prediction of s",
+  "cr_year": "2023",
+  "cr_venue": "Mechanical Systems and Signal Processing",
+  "cr_cites": 24
+ },
+ "M02": {
+  "ref": "Lee C., Wu J., Wang W., Yue X. (2022) Neural Network Gaussian Process Considering Input Uncertainty for Composite Structure Assembly. IEEE/ASME Transactions on Mechatronics 27(3): 1267-1277 https://doi.org/10.1109/tmech.2020.3040755",
+  "title_match": true,
+  "cr_title": "Neural Network Gaussian Process Considering Input Uncertainty for Composite Structure Assembly",
+  "my_title": "Neural Network Gaussian Process Considering Input Uncertainty for Composite Stru",
+  "cr_year": "2022",
+  "cr_venue": "IEEE/ASME Transactions on Mechatronics",
+  "cr_cites": 25
+ },
+ "M03": {
+  "ref": "Wang W., Yue X., Haaland B., Jeff Wu C. (2022) Gaussian Processes with Input Location Error and Applications to the Composite Parts Assembly Process. SIAM/ASA Journal on Uncertainty Quantification 10(2): 619-650 https://doi.org/10.1137/20m1312447",
+  "title_match": true,
+  "cr_title": "Gaussian Processes with Input Location Error and Applications to the Composite Parts Assembly Process",
+  "my_title": "Gaussian Processes with Input Location Error and Applications to the Composite P",
+  "cr_year": "2022",
+  "cr_venue": "SIAM/ASA Journal on Uncertainty Quantification",
+  "cr_cites": 11
+ },
+ "M04": {
+  "ref": "Yue X., Shi J. (2018) Surrogate model–based optimal feed-forward control for dimensional-variation reduction in composite parts' assembly processes. Journal of Quality Technology 50(3): 279-289 https://doi.org/10.1080/00224065.2018.1474688",
+  "title_match": true,
+  "cr_title": "Surrogate model–based optimal feed-forward control for dimensional-variation reduction in composite parts' assembly processes",
+  "my_title": "Surrogate model–based optimal feed-forward control for dimensional-variation red",
+  "cr_year": "2018",
+  "cr_venue": "Journal of Quality Technology",
+  "cr_cites": 30
+ },
+ "M05": {
+  "ref": "Yacob F., Semere D., Nordgren E. (2019) Anomaly detection in Skin Model Shapes using machine learning classifiers. The International Journal of Advanced Manufacturing Technology 105(9): 3677-3689 https://doi.org/10.1007/s00170-019-03794-z",
+  "title_match": true,
+  "cr_title": "Anomaly detection in Skin Model Shapes using machine learning classifiers",
+  "my_title": "Anomaly detection in Skin Model Shapes using machine learning classifiers",
+  "cr_year": "2019",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 28
+ },
+ "M06": {
+  "ref": "Yacob F., Semere D. (2021) A multilayer shallow learning approach to variation prediction and variation source identification in multistage machining processes. Journal of Intelligent Manufacturing 32(4): 1173-1187 https://doi.org/10.1007/s10845-020-01649-z",
+  "title_match": true,
+  "cr_title": "A multilayer shallow learning approach to variation prediction and variation source identification in multistage machining processes",
+  "my_title": "A multilayer shallow learning approach to variation prediction and variation sou",
+  "cr_year": "2021",
+  "cr_venue": "Journal of Intelligent Manufacturing",
+  "cr_cites": 10
+ },
+ "M07": {
+  "ref": "Papananias M., McLeay T., Obajemu O., Mahfouf M., Kadirkamanathan V. (2020) Inspection by exception: A new machine learning-based approach for multistage manufacturing. Applied Soft Computing 97: 106787 https://doi.org/10.1016/j.asoc.2020.106787",
+  "title_match": true,
+  "cr_title": "Inspection by exception: A new machine learning-based approach for multistage manufacturing",
+  "my_title": "Inspection by exception: A new machine learning-based approach for multistage ma",
+  "cr_year": "2020",
+  "cr_venue": "Applied Soft Computing",
+  "cr_cites": 28
+ },
+ "M08": {
+  "ref": "Papananias M., McLeay T., Mahfouf M., Kadirkamanathan V. (2019) A Bayesian framework to estimate part quality and associated uncertainties in multistage manufacturing. Computers in Industry 105: 35-47 https://doi.org/10.1016/j.compind.2018.10.008",
+  "title_match": true,
+  "cr_title": "A Bayesian framework to estimate part quality and associated uncertainties in multistage manufacturing",
+  "my_title": "A Bayesian framework to estimate part quality and associated uncertainties in mu",
+  "cr_year": "2019",
+  "cr_venue": "Computers in Industry",
+  "cr_cites": 46
+ },
+ "M09": {
+  "ref": "Zhang H., Li Y., Xue D., Tong X., Gao B., Yu J. (2025) A FDQN-based tolerance closed-loop optimization model for thin-wall components in aircraft assembly. Advanced Engineering Informatics 66: 103453 https://doi.org/10.1016/j.aei.2025.103453",
+  "title_match": true,
+  "cr_title": "A FDQN-based tolerance closed-loop optimization model for thin-wall components in aircraft assembly",
+  "my_title": "A FDQN-based tolerance closed-loop optimization model for thin-wall components i",
+  "cr_year": "2025",
+  "cr_venue": "Advanced Engineering Informatics",
+  "cr_cites": 6
+ },
+ "M10": {
+  "ref": "Bolotov M., Pechenin V., Ruzanov N., Grachev I. (2018) Predicting geometric parameters of assemblies with neural network models. Journal of Physics: Conference Series 1096: 012198 https://doi.org/10.1088/1742-6596/1096/1/012198",
+  "title_match": true,
+  "cr_title": "Predicting geometric parameters of assemblies with neural network models",
+  "my_title": "Predicting geometric parameters of assemblies with neural network models",
+  "cr_year": "2018",
+  "cr_venue": "Journal of Physics: Conference Series",
+  "cr_cites": 7
+ },
+ "M11": {
+  "ref": "Tabar R., Wärmefjord K., Söderberg R. (2020) A new surrogate model–based method for individualized spot welding sequence optimization with respect to geometrical quality. The International Journal of Advanced Manufacturing Technology 106(5-6): 2333-2346 https://doi.org/10.1007/s00170-019-04706-x",
+  "title_match": true,
+  "cr_title": "A new surrogate model–based method for individualized spot welding sequence optimization with respect to geometrical quality",
+  "my_title": "A new surrogate model–based method for individualized spot welding sequence opti",
+  "cr_year": "2020",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 18
+ },
+ "M12": {
+  "ref": "Sadeghi Tabar R., Wärmefjord K., Söderberg R., Lindkvist L. (2021) Critical joint identification for efficient sequencing. Journal of Intelligent Manufacturing 32(3): 769-780 https://doi.org/10.1007/s10845-020-01660-4",
+  "title_match": true,
+  "cr_title": "Critical joint identification for efficient sequencing",
+  "my_title": "Critical joint identification for efficient sequencing",
+  "cr_year": "2021",
+  "cr_venue": "Journal of Intelligent Manufacturing",
+  "cr_cites": 10
+ },
+ "M13": {
+  "ref": "Russo M., Franciosa P., Greco A., Gerbino S. (2024) Reduced-order modelling for real-time physics-based variation simulation enhanced with adaptive sampling and optimized interpolation. The International Journal of Advanced Manufacturing Technology 132(7-8): 3709-3734 https://doi.org/10.1007/s00170-024-13493-z",
+  "title_match": true,
+  "cr_title": "Reduced-order modelling for real-time physics-based variation simulation enhanced with adaptive sampling and optimized interpolation",
+  "my_title": "Reduced-order modelling for real-time physics-based variation simulation enhance",
+  "cr_year": "2024",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 18
+ },
+ "M14": {
+  "ref": "Hartner R., Kozek M., Jakubek S. (2026) Multi-task learning with state propagation for quality forecasts in polymer extrusion lines. Journal of Intelligent Manufacturing 37(4): 1701-1715 https://doi.org/10.1007/s10845-025-02616-2",
+  "title_match": true,
+  "cr_title": "Multi-task learning with state propagation for quality forecasts in polymer extrusion lines",
+  "my_title": "Multi-task learning with state propagation for quality forecasts in polymer extr",
+  "cr_year": "2026",
+  "cr_venue": "Journal of Intelligent Manufacturing",
+  "cr_cites": 3
+ },
+ "M15": {
+  "ref": "Sun H., Zhang Y., Jiang L., Zheng S., Wang Q., Ke Y. (2026) Predicting aircraft assembly gaps considering structural deformation: A CGAN-based surrogate modeling approach. Journal of Manufacturing Systems 84: 518-540 https://doi.org/10.1016/j.jmsy.2025.12.018",
+  "title_match": true,
+  "cr_title": "Predicting aircraft assembly gaps considering structural deformation: A CGAN-based surrogate modeling approach",
+  "my_title": "Predicting aircraft assembly gaps considering structural deformation: A CGAN-bas",
+  "cr_year": "2026",
+  "cr_venue": "Journal of Manufacturing Systems",
+  "cr_cites": 2
+ },
+ "T01": {
+  "ref": "Schleich B., Wartzack S., Anwer N., Mathieu L. (2015) Skin Model Shapes: Offering New Potentials for Modelling Product Shape Variability. Volume 1A: 35th Computers and Information in Engineering Conference https://doi.org/10.1115/detc2015-46701",
+  "title_match": true,
+  "cr_title": "Skin Model Shapes: Offering New Potentials for Modelling Product Shape Variability",
+  "my_title": "Skin Model Shapes: Offering New Potentials for Modelling Product Shape Variabili",
+  "cr_year": "2015",
+  "cr_venue": "Volume 1A: 35th Computers and Information in Engineering Conference",
+  "cr_cites": 13
+ },
+ "T02": {
+  "ref": "Schleich B., Anwer N., Mathieu L., Wartzack S. (2016) Status and Prospects of Skin Model Shapes for Geometric Variations Management. Procedia CIRP 43: 154-159 https://doi.org/10.1016/j.procir.2016.02.005",
+  "title_match": true,
+  "cr_title": "Status and Prospects of Skin Model Shapes for Geometric Variations Management",
+  "my_title": "Status and Prospects of Skin Model Shapes for Geometric Variations Management",
+  "cr_year": "2016",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 44
+ },
+ "T03": {
+  "ref": "Liu J., Zhang Z., Ding X., Shao N. (2018) Integrating form errors and local surface deformations into tolerance analysis based on skin model shapes and a boundary element method. Computer-Aided Design 104: 45-59 https://doi.org/10.1016/j.cad.2018.05.005",
+  "title_match": true,
+  "cr_title": "Integrating form errors and local surface deformations into tolerance analysis based on skin model shapes and a boundary element method",
+  "my_title": "Integrating form errors and local surface deformations into tolerance analysis b",
+  "cr_year": "2018",
+  "cr_venue": "Computer-Aided Design",
+  "cr_cites": 87
+ },
+ "T04": {
+  "ref": "Corrado A., Polini W. (2017) Manufacturing signature in jacobian and torsor models for tolerance analysis of rigid parts. Robotics and Computer-Integrated Manufacturing 46: 15-24 https://doi.org/10.1016/j.rcim.2016.11.004",
+  "title_match": true,
+  "cr_title": "Manufacturing signature in jacobian and torsor models for tolerance analysis of rigid parts",
+  "my_title": "Manufacturing signature in jacobian and torsor models for tolerance analysis of",
+  "cr_year": "2017",
+  "cr_venue": "Robotics and Computer-Integrated Manufacturing",
+  "cr_cites": 47
+ },
+ "T05": {
+  "ref": "Corrado A., Polini W. (2017) Manufacturing signature in variational and vector-loop models for tolerance analysis of rigid parts. The International Journal of Advanced Manufacturing Technology 88(5-8): 2153-2161 https://doi.org/10.1007/s00170-016-8947-z",
+  "title_match": true,
+  "cr_title": "Manufacturing signature in variational and vector-loop models for tolerance analysis of rigid parts",
+  "my_title": "Manufacturing signature in variational and vector-loop models for tolerance anal",
+  "cr_year": "2017",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 28
+ },
+ "T06": {
+  "ref": "Liu T., Cao Y., Zhao Q., Yang J., Cui L. (2019) Assembly tolerance analysis based on the Jacobian model and skin model shapes. Assembly Automation 39(2): 245-253 https://doi.org/10.1108/aa-10-2017-128",
+  "title_match": true,
+  "cr_title": "Assembly tolerance analysis based on the Jacobian model and skin model shapes",
+  "my_title": "Assembly tolerance analysis based on the Jacobian model and skin model shapes",
+  "cr_year": "2019",
+  "cr_venue": "Assembly Automation",
+  "cr_cites": 26
+ },
+ "T07": {
+  "ref": "Zhang Z., Liu J., Pierre L., Anwer N. (2021) Polytope-based tolerance analysis with consideration of form defects and surface deformations. International Journal of Computer Integrated Manufacturing 34(1): 57-75 https://doi.org/10.1080/0951192x.2020.1858501",
+  "title_match": true,
+  "cr_title": "Polytope-based tolerance analysis with consideration of form defects and surface deformations",
+  "my_title": "Polytope-based tolerance analysis with consideration of form defects and surface",
+  "cr_year": "2021",
+  "cr_venue": "International Journal of Computer Integrated Manufacturing",
+  "cr_cites": 13
+ },
+ "T08": {
+  "ref": "Yi Y., Liu X., Liu T., Ni Z. (2021) A generic integrated approach of assembly tolerance analysis based on skin model shapes. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture 235(4): 689-704 https://doi.org/10.1177/0954405420958862",
+  "title_match": true,
+  "cr_title": "A generic integrated approach of assembly tolerance analysis based on skin model shapes",
+  "my_title": "A generic integrated approach of assembly tolerance analysis based on skin model",
+  "cr_year": "2021",
+  "cr_venue": "Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture",
+  "cr_cites": 30
+ },
+ "T09": {
+  "ref": "Yan H., Cao Y., Yang J. (2016) Statistical Tolerance Analysis Based on Good Point Set and Homogeneous Transform Matrix. Procedia CIRP 43: 178-183 https://doi.org/10.1016/j.procir.2016.02.042",
+  "title_match": true,
+  "cr_title": "Statistical Tolerance Analysis Based on Good Point Set and Homogeneous Transform Matrix",
+  "my_title": "Statistical Tolerance Analysis Based on Good Point Set and Homogeneous Transform",
+  "cr_year": "2016",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 19
+ },
+ "T10": {
+  "ref": "Garaizar O., Qiao L., Anwer N., Mathieu L. (2016) Integration of Thermal Effects into Tolerancing Using Skin Model Shapes. Procedia CIRP 43: 196-201 https://doi.org/10.1016/j.procir.2016.02.079",
+  "title_match": true,
+  "cr_title": "Integration of Thermal Effects into Tolerancing Using Skin Model Shapes",
+  "my_title": "Integration of Thermal Effects into Tolerancing Using Skin Model Shapes",
+  "cr_year": "2016",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 21
+ },
+ "T11": {
+  "ref": "Corrado A., Polini W., Moroni G., Petrò S. (2016) 3D Tolerance Analysis with Manufacturing Signature and Operating Conditions. Procedia CIRP 43: 130-135 https://doi.org/10.1016/j.procir.2016.02.097",
+  "title_match": true,
+  "cr_title": "3D Tolerance Analysis with Manufacturing Signature and Operating Conditions",
+  "my_title": "3D Tolerance Analysis with Manufacturing Signature and Operating Conditions",
+  "cr_year": "2016",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 20
+ },
+ "T12": {
+  "ref": "Shen T., Lu C. (2023) Assembly accuracy analysis of cylindrical parts based on skin model shapes considering form deviations and local surface deformations. Precision Engineering 80: 256-273 https://doi.org/10.1016/j.precisioneng.2023.01.004",
+  "title_match": true,
+  "cr_title": "Assembly accuracy analysis of cylindrical parts based on skin model shapes considering form deviations and local surface deformations",
+  "my_title": "Assembly accuracy analysis of cylindrical parts based on skin model shapes consi",
+  "cr_year": "2023",
+  "cr_venue": "Precision Engineering",
+  "cr_cites": 25
+ },
+ "T13": {
+  "ref": "Shen T., Lu C. (2024) An assembly accuracy analysis approach of mechanical assembly involving parallel and serial connections considering form defects and local surface deformations. Precision Engineering 88: 44-64 https://doi.org/10.1016/j.precisioneng.2024.01.016",
+  "title_match": true,
+  "cr_title": "An assembly accuracy analysis approach of mechanical assembly involving parallel and serial connections considering form defects and local surface deformations",
+  "my_title": "An assembly accuracy analysis approach of mechanical assembly involving parallel",
+  "cr_year": "2024",
+  "cr_venue": "Precision Engineering",
+  "cr_cites": 11
+ },
+ "T14": {
+  "ref": "Shi S., Liu J., Gong H., Shao N., Anwer N. (2024) Assembly accuracy analysis and phase optimization of aero-engine multistage rotors considering surface morphology and non-uniform contact deformation. Precision Engineering 88: 595-610 https://doi.org/10.1016/j.precisioneng.2024.04.003",
+  "title_match": true,
+  "cr_title": "Assembly accuracy analysis and phase optimization of aero-engine multistage rotors considering surface morphology and non-uniform contact deformation",
+  "my_title": "Assembly accuracy analysis and phase optimization of aero-engine multistage roto",
+  "cr_year": "2024",
+  "cr_venue": "Precision Engineering",
+  "cr_cites": 25
+ },
+ "T15": {
+  "ref": "Söderberg R., Lindkvist L., Wärmefjord K., Carlson J. (2016) Virtual Geometry Assurance Process and Toolbox. Procedia CIRP 43: 3-12 https://doi.org/10.1016/j.procir.2016.02.043",
+  "title_match": true,
+  "cr_title": "Virtual Geometry Assurance Process and Toolbox",
+  "my_title": "Virtual Geometry Assurance Process and Toolbox",
+  "cr_year": "2016",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 57
+ },
+ "T16": {
+  "ref": "Schleich B., Wartzack S. (2017) Challenges of Geometrical Variations Modelling in Virtual Product Realization. Procedia CIRP 60: 116-121 https://doi.org/10.1016/j.procir.2017.01.019",
+  "title_match": true,
+  "cr_title": "Challenges of Geometrical Variations Modelling in Virtual Product Realization",
+  "my_title": "Challenges of Geometrical Variations Modelling in Virtual Product Realization",
+  "cr_year": "2017",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 11
+ },
+ "T17": {
+  "ref": "Zhang Y., Hou R., Wang Q., Ke Y. (2025) A Review on Variation Modeling of Aircraft Assembly. International Journal of Robotics and Automation Technology 10: 39-63 https://doi.org/10.31875/2409-9694.2023.10.05",
+  "title_match": true,
+  "cr_title": "A Review on Variation Modeling of Aircraft Assembly",
+  "my_title": "A Review on Variation Modeling of Aircraft Assembly",
+  "cr_year": "2025",
+  "cr_venue": "International Journal of Robotics and Automation Technology",
+  "cr_cites": 7
+ },
+ "T18": {
+  "ref": "Hoffenson S., Söderberg R. (2015) Systems Thinking in Tolerance and Quality-related Design Decision-making. Procedia CIRP 27: 59-64 https://doi.org/10.1016/j.procir.2015.04.044",
+  "title_match": true,
+  "cr_title": "Systems Thinking in Tolerance and Quality-related Design Decision-making",
+  "my_title": "Systems Thinking in Tolerance and Quality-related Design Decision-making",
+  "cr_year": "2015",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 8
+ },
+ "T19": {
+  "ref": "CORRADO A., POLINI W. (2017) A comprehensive study of tolerance analysis methods for rigid parts with manufacturing signature and operating conditions. Journal of Advanced Mechanical Design, Systems, and Manufacturing 11(2): JAMDSM0017-JAMDSM0017 https://doi.org/10.1299/jamdsm.2017jamdsm0017",
+  "title_match": true,
+  "cr_title": "A comprehensive study of tolerance analysis methods for rigid parts with manufacturing signature and operating conditions",
+  "my_title": "A comprehensive study of tolerance analysis methods for rigid parts with manufac",
+  "cr_year": "2017",
+  "cr_venue": "Journal of Advanced Mechanical Design, Systems, and Manufacturing",
+  "cr_cites": 9
+ },
+ "T20": {
+  "ref": "Ackermann T., Skryhunets A., Böß V., Schleich B. (2026) Investigating the potential of ontologies to enable knowledge-based tolerancing for CNC-milled parts. Procedia CIRP 145: 49-54 https://doi.org/10.1016/j.procir.2026.03.129",
+  "title_match": true,
+  "cr_title": "Investigating the potential of ontologies to enable knowledge-based tolerancing for CNC-milled parts",
+  "my_title": "Investigating the potential of ontologies to enable knowledge-based tolerancing",
+  "cr_year": "2026",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 0
+ },
+ "T21": {
+  "ref": "Steinmann C., Schirmer J., Lienig J. (2026) Towards Seamless Integration: Embedding Advanced Geometric Tolerance Models in System-level Simulations. Procedia CIRP 145: 55-60 https://doi.org/10.1016/j.procir.2026.03.140",
+  "title_match": true,
+  "cr_title": "Towards Seamless Integration: Embedding Advanced Geometric Tolerance Models in System-level Simulations",
+  "my_title": "Towards Seamless Integration: Embedding Advanced Geometric Tolerance Models in S",
+  "cr_year": "2026",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 0
+ },
+ "T22": {
+  "ref": "Falgarone H., Thiébaut F., Coloos J., Mathieu L. (2016) Variation Simulation During Assembly of Non-rigid Components. Realistic Assembly Simulation with ANATOLEFLEX Software. Procedia CIRP 43: 202-207 https://doi.org/10.1016/j.procir.2016.02.336",
+  "title_match": true,
+  "cr_title": "Variation Simulation During Assembly of Non-rigid Components. Realistic Assembly Simulation with ANATOLEFLEX Software",
+  "my_title": "Variation Simulation During Assembly of Non-rigid Components. Realistic Assembly",
+  "cr_year": "2016",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 38
+ },
+ "T23": {
+  "ref": "Sadeghi Tabar R., Lorin S., Cromvik C., Lindkvist L., Wärmefjord K., Söderberg R. (2021) Efficient Spot Welding Sequence Simulation in Compliant Variation Simulation. Journal of Manufacturing Science and Engineering 143(7) https://doi.org/10.1115/1.4049654",
+  "title_match": true,
+  "cr_title": "Efficient Spot Welding Sequence Simulation in Compliant Variation Simulation",
+  "my_title": "Efficient Spot Welding Sequence Simulation in Compliant Variation Simulation",
+  "cr_year": "2021",
+  "cr_venue": "Journal of Manufacturing Science and Engineering",
+  "cr_cites": 12
+ },
+ "T24": {
+  "ref": "Rezaei Aderiani A., Wärmefjord K., Söderberg R., Lindkvist L., Lindau B. (2020) Optimal design of fixture layouts for compliant sheet metal assemblies. The International Journal of Advanced Manufacturing Technology 110(7-8): 2181-2201 https://doi.org/10.1007/s00170-020-05954-y",
+  "title_match": true,
+  "cr_title": "Optimal design of fixture layouts for compliant sheet metal assemblies",
+  "my_title": "Optimal design of fixture layouts for compliant sheet metal assemblies",
+  "cr_year": "2020",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 30
+ },
+ "T25": {
+  "ref": "Liu C., Wang J., Zhou B., Yu J., Zheng Y., Liu J. (2024) Development of Fixture Layout Optimization for Thin-Walled Parts: A Review. Chinese Journal of Mechanical Engineering 37(1) https://doi.org/10.1186/s10033-024-01004-w",
+  "title_match": true,
+  "cr_title": "Development of Fixture Layout Optimization for Thin-Walled Parts: A Review",
+  "my_title": "Development of Fixture Layout Optimization for Thin-Walled Parts: A Review",
+  "cr_year": "2024",
+  "cr_venue": "Chinese Journal of Mechanical Engineering",
+  "cr_cites": 22
+ },
+ "T26": {
+  "ref": "Lacroix C., Mathieu L., Thiébaut F., Douilly M., Falgarone H. (2015) Numerical Process Based on Measuring Data for Gap Prediction of an Assembly. Procedia CIRP 27: 97-102 https://doi.org/10.1016/j.procir.2015.04.050",
+  "title_match": true,
+  "cr_title": "Numerical Process Based on Measuring Data for Gap Prediction of an Assembly",
+  "my_title": "Numerical Process Based on Measuring Data for Gap Prediction of an Assembly",
+  "cr_year": "2015",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 15
+ },
+ "T27": {
+  "ref": "Maltauro M., Passarotto G., Concheri G., Meneghello R. (2023) Bridging the gap between design and manufacturing specifications for non-rigid parts using the influence coefficient method. The International Journal of Advanced Manufacturing Technology 127(1-2): 579-597 https://doi.org/10.1007/s00170-023-11480-4",
+  "title_match": true,
+  "cr_title": "Bridging the gap between design and manufacturing specifications for non-rigid parts using the influence coefficient method",
+  "my_title": "Bridging the gap between design and manufacturing specifications for non-rigid p",
+  "cr_year": "2023",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 13
+ },
+ "T28": {
+  "ref": "Claus F., Hamann B., Leitte H., Hagen H. (2021) Decomposing deviations of scanned surfaces of sheet metal assemblies. Journal of Manufacturing Systems 61: 125-138 https://doi.org/10.1016/j.jmsy.2021.08.011",
+  "title_match": true,
+  "cr_title": "Decomposing deviations of scanned surfaces of sheet metal assemblies",
+  "my_title": "Decomposing deviations of scanned surfaces of sheet metal assemblies",
+  "cr_year": "2021",
+  "cr_venue": "Journal of Manufacturing Systems",
+  "cr_cites": 7
+ },
+ "T29": {
+  "ref": "Ding S., Zheng X. (2022) Variation Analysis Considering the Partial Parallel Connection in Aero-Engine Rotor Assembly. Energies 15(12): 4451 https://doi.org/10.3390/en15124451",
+  "title_match": true,
+  "cr_title": "Variation Analysis Considering the Partial Parallel Connection in Aero-Engine Rotor Assembly",
+  "my_title": "Variation Analysis Considering the Partial Parallel Connection in Aero-Engine Ro",
+  "cr_year": "2022",
+  "cr_venue": "Energies",
+  "cr_cites": 16
+ },
+ "T30": {
+  "ref": "Jiang Y., Huang X., Li S., Deng Z. (2019) A coordination modelling approach for assembly of multi-constrained objects based on measured skin model. Assembly Automation 39(2): 380-391 https://doi.org/10.1108/aa-04-2018-058",
+  "title_match": true,
+  "cr_title": "A coordination modelling approach for assembly of multi-constrained objects based on measured skin model",
+  "my_title": "A coordination modelling approach for assembly of multi-constrained objects based on measured skin model",
+  "cr_year": "2019",
+  "cr_venue": "Assembly Automation",
+  "cr_cites": 11
+ },
+ "T31": {
+  "ref": "Yacob F., Semere D., Nordgren E. (2018) Octree-Based Generation and Variation Analysis of Skin Model Shapes. Journal of Manufacturing and Materials Processing 2(3): 52 https://doi.org/10.3390/jmmp2030052",
+  "title_match": true,
+  "cr_title": "Octree-Based Generation and Variation Analysis of Skin Model Shapes",
+  "my_title": "Octree-Based Generation and Variation Analysis of Skin Model Shapes",
+  "cr_year": "2018",
+  "cr_venue": "Journal of Manufacturing and Materials Processing",
+  "cr_cites": 5
+ },
+ "T32": {
+  "ref": "Shi J. (2006) Stream of Variation Modeling and Analysis for Multistage Manufacturing Processes. https://doi.org/10.1201/9781420003901",
+  "title_match": true,
+  "cr_title": "Stream of Variation Modeling and Analysis for Multistage Manufacturing Processes",
+  "my_title": "Stream of Variation Modeling and Analysis for Multistage Manufacturing Processes",
+  "cr_year": "2006",
+  "cr_venue": "",
+  "cr_cites": 152
+ },
+ "T33": {
+  "ref": "Jin J., Shi J. (1999) State Space Modeling of Sheet Metal Assembly for Dimensional Control. Journal of Manufacturing Science and Engineering 121(4): 756-762 https://doi.org/10.1115/1.2833137",
+  "title_match": true,
+  "cr_title": "State Space Modeling of Sheet Metal Assembly for Dimensional Control",
+  "my_title": "State Space Modeling of Sheet Metal Assembly for Dimensional Control",
+  "cr_year": "1999",
+  "cr_venue": "Journal of Manufacturing Science and Engineering",
+  "cr_cites": 342
+ },
+ "M16": {
+  "ref": "Rendu Q., Salles L. (2023) Development of a surrogate model for uncertainty quantification of compressor performance due to manufacturing tolerance. Journal of the Global Power and Propulsion Society 7: 257-268 https://doi.org/10.33737/jgpps/168293",
+  "title_match": true,
+  "cr_title": "Development of a surrogate model for uncertainty quantification of compressor performance due to manufacturing tolerance",
+  "my_title": "Development of a surrogate model for uncertainty quantification of compressor performance due t",
+  "cr_year": "2023",
+  "cr_venue": "Journal of the Global Power and Propulsion Society",
+  "cr_cites": 5
+ },
+ "M17": {
+  "ref": "Kocuvan P., Struna R., Longar V. (2026) Forecasting Rectangular Pocket Deviations in Birch Plywood for Milling Process Optimization. Informatica 50(2) https://doi.org/10.31449/inf.v50i2.10897",
+  "title_match": true,
+  "cr_title": "Forecasting Rectangular Pocket Deviations in Birch Plywood for Milling Process Optimization",
+  "my_title": "Forecasting Rectangular Pocket Deviations in Birch Plywood for Milling Process Optimization",
+  "cr_year": "2026",
+  "cr_venue": "Informatica",
+  "cr_cites": 0
+ },
+ "M18": {
+  "ref": "Iliopoulos A., Steuben J., Apetre N., Michopoulos J. (2019) Surrogate Models for the Efficient Estimation of Residual Fields Associated With Additively Manufactured Parts. Volume 1: 39th Computers and Information in Engineering Conference https://doi.org/10.1115/detc2019-98332",
+  "title_match": true,
+  "cr_title": "Surrogate Models for the Efficient Estimation of Residual Fields Associated With Additively Manufactured Parts",
+  "my_title": "Surrogate Models for the Efficient Estimation of Residual Fields Associated With Additively Man",
+  "cr_year": "2019",
+  "cr_venue": "Volume 1: 39th Computers and Information in Engineering Conference",
+  "cr_cites": 0
+ },
+ "M19": {
+  "ref": "Haseltalab V., Dutta A., Yang S. (2026) Data-driven inverse parameter design for stable dimensional control in extrusion-based additive manufacturing. Computers in Industry 180: 104520 https://doi.org/10.1016/j.compind.2026.104520",
+  "title_match": true,
+  "cr_title": "Data-driven inverse parameter design for stable dimensional control in extrusion-based additive manufacturing",
+  "my_title": "Data-driven inverse parameter design for stable dimensional control in extrusion-based additive",
+  "cr_year": "2026",
+  "cr_venue": "Computers in Industry",
+  "cr_cites": 0
+ },
+ "O01": {
+  "ref": "Ramesh Kumar L., Padmanaban K., Balamurugan C. (2016) Optimal Tolerance Allocation in a Complex Assembly Using Evolutionary Algorithms. International Journal of Simulation Modelling 15(1): 121-132 https://doi.org/10.2507/ijsimm15(1)10.331",
+  "title_match": true,
+  "cr_title": "Optimal Tolerance Allocation in a Complex Assembly Using Evolutionary Algorithms",
+  "my_title": "Optimal Tolerance Allocation in a Complex Assembly Using Evolutionary Algorithms",
+  "cr_year": "2016",
+  "cr_venue": "International Journal of Simulation Modelling",
+  "cr_cites": 10
+ },
+ "O02": {
+  "ref": "Saravanan A., Jerald J. (2019) Ontological model-based optimal determination of geometric tolerances in an assembly using the hybridised neural network and Genetic algorithm. Journal of Engineering Design 30(4-5): 180-198 https://doi.org/10.1080/09544828.2019.1605585",
+  "title_match": true,
+  "cr_title": "Ontological model-based optimal determination of geometric tolerances in an assembly using the hybridised neural network and Genetic algorithm",
+  "my_title": "Ontological model-based optimal determination of geometric tolerances in an asse",
+  "cr_year": "2019",
+  "cr_venue": "Journal of Engineering Design",
+  "cr_cites": 15
+ },
+ "O03": {
+  "ref": "Schaechtl P., Roth M., Bräu J., Goetz S., Schleich B., Wartzack S. (2024) Generating Manufacturing Distributions for Sampling-based Tolerance Analysis using Deep Learning Models. Procedia CIRP 129: 103-108 https://doi.org/10.1016/j.procir.2024.10.019",
+  "title_match": true,
+  "cr_title": "Generating Manufacturing Distributions for Sampling-based Tolerance Analysis using Deep Learning Models",
+  "my_title": "Generating Manufacturing Distributions for Sampling-based Tolerance Analysis usi",
+  "cr_year": "2024",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 5
+ },
+ "O04": {
+  "ref": "Yu D., Zhao Q., Yan Y., Wang S., Yang Y., Hong J. (2024) Dimensional tolerance optimization of SAR antennas with uncertainty quantification and reliability analysis based on structural-electromagnetic coupling model. Aerospace Science and Technology 153: 109412 https://doi.org/10.1016/j.ast.2024.109412",
+  "title_match": true,
+  "cr_title": "Dimensional tolerance optimization of SAR antennas with uncertainty quantification and reliability analysis based on structural-electromagnetic coupling model",
+  "my_title": "Dimensional tolerance optimization of SAR antennas with uncertainty quantificati",
+  "cr_year": "2024",
+  "cr_venue": "Aerospace Science and Technology",
+  "cr_cites": 15
+ },
+ "O05": {
+  "ref": "Franz M., Wartzack S. (2023) Tolerance Optimization of Patch Parameters for Locally Reinforced Composite Structures. Applied Composite Materials 30(4): 1353-1376 https://doi.org/10.1007/s10443-022-10072-x",
+  "title_match": true,
+  "cr_title": "Tolerance Optimization of Patch Parameters for Locally Reinforced Composite Structures",
+  "my_title": "Tolerance Optimization of Patch Parameters for Locally Reinforced Composite Stru",
+  "cr_year": "2023",
+  "cr_venue": "Applied Composite Materials",
+  "cr_cites": 8
+ },
+ "O06": {
+  "ref": "Roth M., Schaechtl P., Giesert A., Schleich B., Wartzack S. (2022) Toward cost-efficient tolerancing of 3D-printed parts: a novel methodology for the development of tolerance-cost models for fused layer modeling. The International Journal of Advanced Manufacturing Technology 119(3-4): 2461-2478 https://doi.org/10.1007/s00170-021-08488-z",
+  "title_match": true,
+  "cr_title": "Toward cost-efficient tolerancing of 3D-printed parts: a novel methodology for the development of tolerance-cost models for fused layer modeling",
+  "my_title": "Toward cost-efficient tolerancing of 3D-printed parts: a novel methodology for t",
+  "cr_year": "2022",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 13
+ },
+ "O07": {
+  "ref": "Franz M., Schleich B., Wartzack S. (2021) Tolerance management during the design of composite structures considering variations in design parameters. The International Journal of Advanced Manufacturing Technology 113(5-6): 1753-1770 https://doi.org/10.1007/s00170-020-06555-5",
+  "title_match": true,
+  "cr_title": "Tolerance management during the design of composite structures considering variations in design parameters",
+  "my_title": "Tolerance management during the design of composite structures considering varia",
+  "cr_year": "2021",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 16
+ },
+ "O08": {
+  "ref": "Ghali M., Tlija M., Aifaoui N. (2018) Optimal tolerance allocation based on Difficulty matrix using FMECA tool. Procedia CIRP 70: 132-137 https://doi.org/10.1016/j.procir.2018.03.005",
+  "title_match": true,
+  "cr_title": "Optimal tolerance allocation based on Difficulty matrix using FMECA tool",
+  "my_title": "Optimal tolerance allocation based on Difficulty matrix using FMECA tool",
+  "cr_year": "2018",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 11
+ },
+ "O09": {
+  "ref": "Hoffenson S., Dagman A., Söderberg R. (2015) Visual quality and sustainability considerations in tolerance optimization: A market-based approach. International Journal of Production Economics 168: 167-180 https://doi.org/10.1016/j.ijpe.2015.06.023",
+  "title_match": true,
+  "cr_title": "Visual quality and sustainability considerations in tolerance optimization: A market-based approach",
+  "my_title": "Visual quality and sustainability considerations in tolerance optimization: A ma",
+  "cr_year": "2015",
+  "cr_venue": "International Journal of Production Economics",
+  "cr_cites": 17
+ },
+ "O10": {
+  "ref": "Rangappa R., Patel G., Chate G., Lokare D., Lakshmikanthan A., Giasin K., Pimenov D. (2022) Coaxiality error analysis and optimization of cylindrical parts of CNC turning process. The International Journal of Advanced Manufacturing Technology 120(9-10): 6617-6634 https://doi.org/10.1007/s00170-022-09184-2",
+  "title_match": true,
+  "cr_title": "Coaxiality error analysis and optimization of cylindrical parts of CNC turning process",
+  "my_title": "Coaxiality error analysis and optimization of cylindrical parts of CNC turning p",
+  "cr_year": "2022",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 17
+ },
+ "O11": {
+  "ref": "Xing Y., Dun X., Yang D., Dong S., Peng Y., Wang X., Yu J., Wang Z., et al. (2025) Retained imaging quality with reduced manufacturing precision: leveraging computational optics. Advanced Photonics Nexus 4(04) https://doi.org/10.1117/1.apn.4.4.046014",
+  "title_match": true,
+  "cr_title": "Retained imaging quality with reduced manufacturing precision: leveraging computational optics",
+  "my_title": "Retained imaging quality with reduced manufacturing precision: leveraging computational optics",
+  "cr_year": "2025",
+  "cr_venue": "Advanced Photonics Nexus",
+  "cr_cites": 2
+ },
+ "E01": {
+  "ref": "Würth T., Krauß C., Zimmerling C., Kärger L. (2023) Physics-informed neural networks for data-free surrogate modelling and engineering optimization – An example from composite manufacturing. Materials &amp; Design 231: 112034 https://doi.org/10.1016/j.matdes.2023.112034",
+  "title_match": true,
+  "cr_title": "Physics-informed neural networks for data-free surrogate modelling and engineering optimization – An example from composite manufacturing",
+  "my_title": "Physics-informed neural networks for data-free surrogate modelling and engineeri",
+  "cr_year": "2023",
+  "cr_venue": "Materials &amp; Design",
+  "cr_cites": 43
+ },
+ "E02": {
+  "ref": "Chen J., Pierce J., Williams G., Simpson T., Meisel N., Prabha Narra S., McComb C. (2024) Accelerating Thermal Simulations in Additive Manufacturing by Training Physics-Informed Neural Networks With Randomly Synthesized Data. Journal of Computing and Information Science in Engineering 24(1) https://doi.org/10.1115/1.4062852",
+  "title_match": true,
+  "cr_title": "Accelerating Thermal Simulations in Additive Manufacturing by Training Physics-Informed Neural Networks With Randomly Synthesized Data",
+  "my_title": "Accelerating Thermal Simulations in Additive Manufacturing by Training Physics-I",
+  "cr_year": "2024",
+  "cr_venue": "Journal of Computing and Information Science in Engineering",
+  "cr_cites": 30
+ },
+ "E03": {
+  "ref": "Sajadi P., Rahmani Dehaghani M., Tang Y., Wang G. (2024) Physics-Informed Online Learning for Temperature Prediction in Metal AM. Materials 17(13): 3306 https://doi.org/10.3390/ma17133306",
+  "title_match": true,
+  "cr_title": "Physics-Informed Online Learning for Temperature Prediction in Metal AM",
+  "my_title": "Physics-Informed Online Learning for Temperature Prediction in Metal AM",
+  "cr_year": "2024",
+  "cr_venue": "Materials",
+  "cr_cites": 22
+ },
+ "E04": {
+  "ref": "Sahin T., von Danwitz M., Popp A. (2024) Solving forward and inverse problems of contact mechanics using physics-informed neural networks. Advanced Modeling and Simulation in Engineering Sciences 11(1) https://doi.org/10.1186/s40323-024-00265-3",
+  "title_match": true,
+  "cr_title": "Solving forward and inverse problems of contact mechanics using physics-informed neural networks",
+  "my_title": "Solving forward and inverse problems of contact mechanics using physics-informed",
+  "cr_year": "2024",
+  "cr_venue": "Advanced Modeling and Simulation in Engineering Sciences",
+  "cr_cites": 77
+ },
+ "E05": {
+  "ref": "Kapoor T., Wang H., Núnez A., Dollevoet R. (2024) Physics-Informed Neural Networks for Solving Forward and Inverse Problems in Complex Beam Systems. IEEE Transactions on Neural Networks and Learning Systems 35(5): 5981-5995 https://doi.org/10.1109/tnnls.2023.3310585",
+  "title_match": true,
+  "cr_title": "Physics-Informed Neural Networks for Solving Forward and Inverse Problems in Complex Beam Systems",
+  "my_title": "Physics-Informed Neural Networks for Solving Forward and Inverse Problems in Com",
+  "cr_year": "2024",
+  "cr_venue": "IEEE Transactions on Neural Networks and Learning Systems",
+  "cr_cites": 118
+ },
+ "E06": {
+  "ref": "Prantikos K., Chatzidakis S., Tsoukalas L., Heifetz A. (2023) Physics-informed neural network with transfer learning (TL-PINN) based on domain similarity measure for prediction of nuclear reactor transients. Scientific Reports 13(1) https://doi.org/10.1038/s41598-023-43325-1",
+  "title_match": true,
+  "cr_title": "Physics-informed neural network with transfer learning (TL-PINN) based on domain similarity measure for prediction of nuclear reactor transients",
+  "my_title": "Physics-informed neural network with transfer learning (TL-PINN) based on domain",
+  "cr_year": "2023",
+  "cr_venue": "Scientific Reports",
+  "cr_cites": 87
+ },
+ "E07": {
+  "ref": "Brumand-Poor F., Trautmann M., Schmitz K. (2025) Advancing deformation calculation: a physics-informed deep graph learning framework for hyperelastic materials. Advanced Modeling and Simulation in Engineering Sciences 12(1) https://doi.org/10.1186/s40323-025-00304-7",
+  "title_match": true,
+  "cr_title": "Advancing deformation calculation: a physics-informed deep graph learning framework for hyperelastic materials",
+  "my_title": "Advancing deformation calculation: a physics-informed deep graph learning framew",
+  "cr_year": "2025",
+  "cr_venue": "Advanced Modeling and Simulation in Engineering Sciences",
+  "cr_cites": 3
+ },
+ "E08": {
+  "ref": "Liu J., Jiang F., Tashiro S., Chen S., Tanaka M. (2025) A physics-informed and data-driven framework for robotic welding in manufacturing. Nature Communications 16(1) https://doi.org/10.1038/s41467-025-60164-y",
+  "title_match": true,
+  "cr_title": "A physics-informed and data-driven framework for robotic welding in manufacturing",
+  "my_title": "A physics-informed and data-driven framework for robotic welding in manufacturin",
+  "cr_year": "2025",
+  "cr_venue": "Nature Communications",
+  "cr_cites": 47
+ },
+ "E09": {
+  "ref": "Hua J., Li Y., Liu C., Wan P., Liu X. (2024) Physics-Informed Neural Networks With Weighted Losses by Uncertainty Evaluation for Accurate and Stable Prediction of Manufacturing Systems. IEEE Transactions on Neural Networks and Learning Systems 35(8): 11064-11076 https://doi.org/10.1109/tnnls.2023.3247163",
+  "title_match": true,
+  "cr_title": "Physics-Informed Neural Networks With Weighted Losses by Uncertainty Evaluation for Accurate and Stable Prediction of Manufacturing Systems",
+  "my_title": "Physics-Informed Neural Networks With Weighted Losses by Uncertainty Evaluation",
+  "cr_year": "2024",
+  "cr_venue": "IEEE Transactions on Neural Networks and Learning Systems",
+  "cr_cites": 93
+ },
+ "E10": {
+  "ref": "Peng B., Panesar A. (2024) Multi-layer thermal simulation using physics-informed neural network. Additive Manufacturing 95: 104498 https://doi.org/10.1016/j.addma.2024.104498",
+  "title_match": true,
+  "cr_title": "Multi-layer thermal simulation using physics-informed neural network",
+  "my_title": "Multi-layer thermal simulation using physics-informed neural network",
+  "cr_year": "2024",
+  "cr_venue": "Additive Manufacturing",
+  "cr_cites": 9
+ },
+ "E11": {
+  "ref": "Alam M., Shtein M., Barton K., Hoelzle D. (2021) A physics-guided reinforcement learning framework for an autonomous manufacturing system with expensive data. 2021 American Control Conference (ACC) : 484-490 https://doi.org/10.23919/acc50511.2021.9482944",
+  "title_match": true,
+  "cr_title": "A physics-guided reinforcement learning framework for an autonomous manufacturing system with expensive data",
+  "my_title": "A physics-guided reinforcement learning framework for an autonomous manufacturin",
+  "cr_year": "2021",
+  "cr_venue": "2021 American Control Conference (ACC)",
+  "cr_cites": 2
+ },
+ "E12": {
+  "ref": "Asef P., Vagg C. (2024) A physics-informed Bayesian optimization method for rapid development of electrical machines. Scientific Reports 14(1) https://doi.org/10.1038/s41598-024-54965-2",
+  "title_match": true,
+  "cr_title": "A physics-informed Bayesian optimization method for rapid development of electrical machines",
+  "my_title": "A physics-informed Bayesian optimization method for rapid development of electri",
+  "cr_year": "2024",
+  "cr_venue": "Scientific Reports",
+  "cr_cites": 18
+ },
+ "E14": {
+  "ref": "Lu L., Jin P., Pang G., Zhang Z., Karniadakis G. (2021) Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators. Nature Machine Intelligence 3(3): 218-229 https://doi.org/10.1038/s42256-021-00302-5",
+  "title_match": true,
+  "cr_title": "Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators",
+  "my_title": "Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators",
+  "cr_year": "2021",
+  "cr_venue": "Nature Machine Intelligence",
+  "cr_cites": 3244
+ },
+ "C01": {
+  "ref": "Raissi M., Perdikaris P., Karniadakis G. (2019) Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. Journal of Computational Physics 378: 686-707 https://doi.org/10.1016/j.jcp.2018.10.045",
+  "title_match": true,
+  "cr_title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+  "my_title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear PDEs",
+  "cr_year": "2019",
+  "cr_venue": "Journal of Computational Physics",
+  "cr_cites": 18850
+ },
+ "C02": {
+  "ref": "Cuomo S., Di Cola V., Giampaolo F., Rozza G., Raissi M., Piccialli F. (2022) Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next. Journal of Scientific Computing 92(3) https://doi.org/10.1007/s10915-022-01939-z",
+  "title_match": true,
+  "cr_title": "Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next",
+  "my_title": "Scientific Machine Learning Through Physics–Informed Neural Networks: Where we a",
+  "cr_year": "2022",
+  "cr_venue": "Journal of Scientific Computing",
+  "cr_cites": 2633
+ },
+ "C04": {
+  "ref": "Lawal Z., Yassin H., Lai D., Che Idris A. (2022) Physics-Informed Neural Network (PINN) Evolution and Beyond: A Systematic Literature Review and Bibliometric Analysis. Big Data and Cognitive Computing 6(4): 140 https://doi.org/10.3390/bdcc6040140",
+  "title_match": true,
+  "cr_title": "Physics-Informed Neural Network (PINN) Evolution and Beyond: A Systematic Literature Review and Bibliometric Analysis",
+  "my_title": "Physics-Informed Neural Network (PINN) Evolution and Beyond: A Systematic Literature Review and Meta-Analysis",
+  "cr_year": "2022",
+  "cr_venue": "Big Data and Cognitive Computing",
+  "cr_cites": 261
+ },
+ "C06": {
+  "ref": "Khalid S., Yazdani M., Azad M., Elahi M., Raouf I., Kim H. (2024) Advancements in Physics-Informed Neural Networks for Laminated Composites: A Comprehensive Review. Mathematics 13(1): 17 https://doi.org/10.3390/math13010017",
+  "title_match": true,
+  "cr_title": "Advancements in Physics-Informed Neural Networks for Laminated Composites: A Comprehensive Review",
+  "my_title": "Advancements in Physics-Informed Neural Networks for Laminated Composites: A Com",
+  "cr_year": "2024",
+  "cr_venue": "Mathematics",
+  "cr_cites": 76
+ },
+ "C07": {
+  "ref": "Malashin I., Tynchenko V., Gantimurov A., Nelyub V., Borodulin A. (2025) Physics-Informed Neural Networks in Polymers: A Review. Polymers 17(8): 1108 https://doi.org/10.3390/polym17081108",
+  "title_match": true,
+  "cr_title": "Physics-Informed Neural Networks in Polymers: A Review",
+  "my_title": "Physics-Informed Neural Networks in Polymers: A Review",
+  "cr_year": "2025",
+  "cr_venue": "Polymers",
+  "cr_cites": 50
+ },
+ "K01": {
+  "ref": "Jia J., Zhang Y., Saad M. (2023) Knowledge graph–enabled tolerancing experience acquisition and reuse for tolerance specification. The International Journal of Advanced Manufacturing Technology 129(11-12): 5515-5539 https://doi.org/10.1007/s00170-023-12644-y",
+  "title_match": true,
+  "cr_title": "Knowledge graph–enabled tolerancing experience acquisition and reuse for tolerance specification",
+  "my_title": "Knowledge graph–enabled tolerancing experience acquisition and reuse for tolerance specification",
+  "cr_year": "2023",
+  "cr_venue": "The International Journal of Advanced Manufacturing Technology",
+  "cr_cites": 6
+ },
+ "E15": {
+  "ref": "Imran G., Islam T., Tusar M. (2025) Surface Roughness Prediction of CNC Lathe Machined Hardened Steel Using Physics-Informed Neural Network Leveraging Transfer Learning. 2025 IEEE 15th International Conference on System Engineering and Technology (ICSET) : 439-444 https://doi.org/10.1109/icset65917.2025.11284154",
+  "title_match": true,
+  "cr_title": "Surface Roughness Prediction of CNC Lathe Machined Hardened Steel Using Physics-Informed Neural Network Leveraging Transfer Learning",
+  "my_title": "Surface Roughness Prediction of CNC Lathe Machined Hardened Steel Using Physics-Informed Neural",
+  "cr_year": "2025",
+  "cr_venue": "2025 IEEE 15th International Conference on System Engineering and Technology (ICSET)",
+  "cr_cites": 1
+ },
+ "E16": {
+  "ref": "MUNZONE F. (2024) Comparative study of artificial neural network and physics-informed neural network application in sheet metal forming. Materials Research Proceedings 41: 2278-2288 https://doi.org/10.21741/9781644903131-251",
+  "title_match": true,
+  "cr_title": "Comparative study of artificial neural network and physics-informed neural network application in sheet metal forming",
+  "my_title": "Comparative study of artificial neural network and physics-informed neural network application",
+  "cr_year": "2024",
+  "cr_venue": "Materials Research Proceedings",
+  "cr_cites": 7
+ },
+ "E17": {
+  "ref": "Rashid A., Vatandoust F., Kota A., Melkote S. (2025) Bead geometry prediction in wire arc directed energy deposition using physics-informed machine learning and low-fidelity data. Additive Manufacturing 109: 104881 https://doi.org/10.1016/j.addma.2025.104881",
+  "title_match": true,
+  "cr_title": "Bead geometry prediction in wire arc directed energy deposition using physics-informed machine learning and low-fidelity data",
+  "my_title": "Bead geometry prediction in wire arc directed energy deposition using physics-informed machine",
+  "cr_year": "2025",
+  "cr_venue": "Additive Manufacturing",
+  "cr_cites": 10
+ },
+ "E18": {
+  "ref": "Zheng C., Zhao G., So P. (2023) Close the Design-to-Manufacturing Gap in Computational Optics with a 'Real2Sim' Learned Two-Photon Neural Lithography Simulator. SIGGRAPH Asia 2023 Conference Papers : 1-9 https://doi.org/10.1145/3610548.3618251",
+  "title_match": true,
+  "cr_title": "Close the Design-to-Manufacturing Gap in Computational Optics with a 'Real2Sim' Learned Two-Photon Neural Lithography Simulator",
+  "my_title": "Close the Design-to-Manufacturing Gap in Computational Optics with a 'Real2Sim' Learned Two-Pho",
+  "cr_year": "2023",
+  "cr_venue": "SIGGRAPH Asia 2023 Conference Papers",
+  "cr_cites": 14
+ },
+ "E19": {
+  "ref": "Shopno N. (2025) Physics-Informed Machine Learning for Predicting Thermal Distortion in Metal Additive Manufacturing. American Journal of Scholarly Research and Innovation 04(01): 943-989 https://doi.org/10.63125/ny974y17",
+  "title_match": true,
+  "cr_title": "Physics-Informed Machine Learning for Predicting Thermal Distortion in Metal Additive Manufacturing",
+  "my_title": "Physics-Informed Machine Learning for Predicting Thermal Distortion in Metal Additive Manufactu",
+  "cr_year": "2025",
+  "cr_venue": "American Journal of Scholarly Research and Innovation",
+  "cr_cites": 0
+ },
+ "E20": {
+  "ref": "He X., Ma J., Welo T. (2025) Real-time and data-efficient springback prediction in tube bending using force measurement and physics-informed machine learning. Journal of Manufacturing Processes 156: 645-660 https://doi.org/10.1016/j.jmapro.2025.10.104",
+  "title_match": true,
+  "cr_title": "Real-time and data-efficient springback prediction in tube bending using force measurement and physics-informed machine learning",
+  "my_title": "Real-time and data-efficient springback prediction in tube bending using force measurement and",
+  "cr_year": "2025",
+  "cr_venue": "Journal of Manufacturing Processes",
+  "cr_cites": 12
+ },
+ "E21": {
+  "ref": "Piandoro S., Dexiang Z., Liverani E., Ascari A., Fortunato A. (2026) Towards Sustainable Laser-Based Manufacturing: A Physics-Informed Machine Learning Approach to Keyhole Welding. Procedia CIRP 140: 1030-1035 https://doi.org/10.1016/j.procir.2026.05.173",
+  "title_match": true,
+  "cr_title": "Towards Sustainable Laser-Based Manufacturing: A Physics-Informed Machine Learning Approach to Keyhole Welding",
+  "my_title": "Towards Sustainable Laser-Based Manufacturing: A Physics-Informed Machine Learning Approach to",
+  "cr_year": "2026",
+  "cr_venue": "Procedia CIRP",
+  "cr_cites": 1
+ },
+ "E22": {
+  "ref": "Huang L., Qiao Y., Zheng C., Wu J., Gao D., Zhou G. (2026) Physics-Informed Neural Networks for Accurate Photoresist Thickness Prediction. 2026 Conference of Science and technology of Integrated Circuits (CSTIC) : 1-3 https://doi.org/10.1109/cstic68613.2026.11537714",
+  "title_match": true,
+  "cr_title": "Physics-Informed Neural Networks for Accurate Photoresist Thickness Prediction",
+  "my_title": "Physics-Informed Neural Networks for Accurate Photoresist Thickness Prediction",
+  "cr_year": "2026",
+  "cr_venue": "2026 Conference of Science and technology of Integrated Circuits (CSTIC)",
+  "cr_cites": 0
+ },
+ "E23": {
+  "ref": "Balcı A. (2026) Multi-Modal Physics-Informed Neural Network for Single-Track Geometry Prediction in Powder-Bed Arc Additive Manufacturing of 316L Stainless Steel. Materials 19(16): 3454 https://doi.org/10.3390/ma19163454",
+  "title_match": true,
+  "cr_title": "Multi-Modal Physics-Informed Neural Network for Single-Track Geometry Prediction in Powder-Bed Arc Additive Manufacturing of 316L Stainless Steel",
+  "my_title": "Multi-Modal Physics-Informed Neural Network for Single-Track Geometry Prediction in Powder-Bed",
+  "cr_year": "2026",
+  "cr_venue": "Materials",
+  "cr_cites": 0
+ },
+ "E24": {
+  "ref": "Zamiela C., Stokes R., Tian W., Priddy M., Bian L. (2025) Advancing Thermal Physics-Informed PointNet Distortion Prediction Capabilities in Wire Arc-Directed Energy Deposition. Journal of Computing and Information Science in Engineering 25(11) https://doi.org/10.1115/1.4069381",
+  "title_match": true,
+  "cr_title": "Advancing Thermal Physics-Informed PointNet Distortion Prediction Capabilities in Wire Arc-Directed Energy Deposition",
+  "my_title": "Advancing Thermal Physics-Informed PointNet Distortion Prediction Capabilities in Wire Arc-Dire",
+  "cr_year": "2025",
+  "cr_venue": "Journal of Computing and Information Science in Engineering",
+  "cr_cites": 4
+ },
+ "E25": {
+  "ref": "Karkadakattil A. (2026) Physics-guided neural network framework for surface roughness prediction in additively manufactured metallic alloys. Journal of Laser Applications 38(2) https://doi.org/10.2351/7.0002049",
+  "title_match": true,
+  "cr_title": "Physics-guided neural network framework for surface roughness prediction in additively manufactured metallic alloys",
+  "my_title": "Physics-guided neural network framework for surface roughness prediction in additively manufact",
+  "cr_year": "2026",
+  "cr_venue": "Journal of Laser Applications",
+  "cr_cites": 2
+ },
+ "E26": {
+  "ref": "Manque Roa N., Valdebenito M., Novak L., Faes M. (2025) Physics-informed polynomial chaos expansions for geometric uncertainties. 14th International Conference on Structural Safety and Reliability https://doi.org/10.23967/icossar.2025.030",
+  "title_match": true,
+  "cr_title": "Physics-informed polynomial chaos expansions for geometric uncertainties",
+  "my_title": "Physics-informed polynomial chaos expansions for geometric uncertainties",
+  "cr_year": "2025",
+  "cr_venue": "14th International Conference on Structural Safety and Reliability",
+  "cr_cites": 0
+ },
+ "E27": {
+  "ref": "Wang Z., Xu K., Zhang X., Ge S., Wei X., Chen Z. (2026) Artificial Intelligence Enabled Precise 3D Printing of Polyvinylidene Fluoride (PVDF) Microfibers for Ultrasensitive Sensors. ACS Applied Materials &amp; Interfaces 18(16): 23441-23453 https://doi.org/10.1021/acsami.6c01560",
+  "title_match": true,
+  "cr_title": "Artificial Intelligence Enabled Precise 3D Printing of Polyvinylidene Fluoride (PVDF) Microfibers for Ultrasensitive Sensors",
+  "my_title": "Artificial Intelligence Enabled Precise 3D Printing of Polyvinylidene Fluoride (PVDF) Microfibe",
+  "cr_year": "2026",
+  "cr_venue": "ACS Applied Materials &amp; Interfaces",
+  "cr_cites": 0
+ },
+ "E28": {
+  "ref": "Zhou Q., Kim J., Tang J. (2024) Spatially-Aware Milling Surface Flatness Prediction Through Physics-Based Graph Neural Network. Volume 2A: 44th Computers and Information in Engineering Conference (CIE) https://doi.org/10.1115/detc2024-143787",
+  "title_match": true,
+  "cr_title": "Spatially-Aware Milling Surface Flatness Prediction Through Physics-Based Graph Neural Network",
+  "my_title": "Spatially-Aware Milling Surface Flatness Prediction Through Physics-Based Graph Neural Network",
+  "cr_year": "2024",
+  "cr_venue": "Volume 2A: 44th Computers and Information in Engineering Conference (CIE)",
+  "cr_cites": 0
+ },
+ "E29": {
+  "ref": "Reddy B., Pradeep N., Bhaskar A., Sastry C., Salunkhe S., Cep R. (2026) Physics-guided explainable machine learning for multi-response modeling of electrochemical micro-machining using polymer graphite electrodes. Scientific Reports 16(1) https://doi.org/10.1038/s41598-026-46315-1",
+  "title_match": true,
+  "cr_title": "Physics-guided explainable machine learning for multi-response modeling of electrochemical micro-machining using polymer graphite electrodes",
+  "my_title": "Physics-guided explainable machine learning for multi-response modeling of electrochemical micr",
+  "cr_year": "2026",
+  "cr_venue": "Scientific Reports",
+  "cr_cites": 0
+ },
+ "E31": {
+  "ref": "Huang X. (2026) A closed-loop automated control architecture with physics-informed compensation for springback regulation in aerospace tube bending manufacturing. Third International Conference on Electronics, Electrical, and Control System (EECS 2026) : 128 https://doi.org/10.1117/12.3122441",
+  "title_match": true,
+  "cr_title": "A closed-loop automated control architecture with physics-informed compensation for springback regulation in aerospace tube bending manufacturing",
+  "my_title": "A closed-loop automated control architecture with physics-informed compensation for springback",
+  "cr_year": "2026",
+  "cr_venue": "Third International Conference on Electronics, Electrical, and Control System (EECS 2026)",
+  "cr_cites": 0
+ },
+ "E32": {
+  "ref": "Qi Y., Dai Y., Dong L., Liu M., Kong L. (2026) Data-driven identification of robot DH parameter errors using a physics-informed transformer network. Fifth International Computational Imaging Conference (CITA 2025) : 64 https://doi.org/10.1117/12.3091946",
+  "title_match": true,
+  "cr_title": "Data-driven identification of robot DH parameter errors using a physics-informed transformer network",
+  "my_title": "Data-driven identification of robot DH parameter errors using a physics-informed transformer ne",
+  "cr_year": "2026",
+  "cr_venue": "Fifth International Computational Imaging Conference (CITA 2025)",
+  "cr_cites": 0
+ }
+}

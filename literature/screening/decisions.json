@@ -1,0 +1,2301 @@
+{
+ "_meta": {
+  "old_pool": 1779,
+  "new_pool": 46239,
+  "delta_total": 44900,
+  "delta_by_tier": {
+   "A": 141,
+   "B": 1067,
+   "C": 43692
+  },
+  "old_pool_records_missing_from_new": 440,
+  "candidates": 449,
+  "tier_b_min_relevance": 5,
+  "screening_cap": 1200,
+  "capped": false,
+  "criteria": "Tier A delta: all; Tier B delta: relevance >= 5",
+  "adjudication": "LLM-assisted first pass (3 agents) + single-adjudicator overrides; 2 duplicate-version overrides; 6 DOI-transcription normalizations"
+ },
+ "decisions": {
+  "doi:10.5781/jwj.2024.42.4.3": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM/welding process-physics PINN review; no tolerance or geometry assurance focus."
+  },
+  "doi:10.48550/arxiv.2302.14227": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General PINN training/decomposition method; no manufacturing geometry application."
+  },
+  "doi:10.48550/arxiv.2202.10423": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PIML for heterogeneous-material elasticity; no manufacturing or tolerance application."
+  },
+  "doi:10.48550/arxiv.2211.05560": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General PINN domain-decomposition method; no manufacturing geometry ties."
+  },
+  "doi:10.33599/nasampe/s.25.0137": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM heat-transfer PINN; process physics, not geometry/tolerance."
+  },
+  "doi:10.1117/1.apn.4.4.046014": {
+   "verdict": "include",
+   "group": "G5",
+   "reason": "Physics-informed tolerance analysis of manufacturing error boundaries for optics fabrication.",
+   "assigned_id": "O11"
+  },
+  "t:ontheroleofconsistencybetweenphysicsanddatainphysicsinformedneuralnetworks": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN theory on data-physics consistency; no manufacturing geometry application."
+  },
+  "doi:10.48550/arxiv.2602.10611": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN theory duplicate; Burgers benchmark; no manufacturing geometry application."
+  },
+  "doi:10.20944/preprints202604.0401.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Canonical boundary-value PINN benchmark; no manufacturing application."
+  },
+  "doi:10.48550/arxiv.2509.12483": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Wave-scattering PINN/BEM benchmark; no manufacturing geometry ties."
+  },
+  "doi:10.3390/app16136282": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Aerospace PINN review; aerodynamics/structures, no tolerance or geometry assurance."
+  },
+  "doi:10.48550/arxiv.2308.06447": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Composites autoclave cure thermal PINN; process physics only."
+  },
+  "doi:10.1201/9781032688121-6": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Heat-exchanger physics-informed deep learning; thermal process, not geometry."
+  },
+  "doi:10.55306/cjamc.2026.010101": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Reinforcement-PINN process digital twin; no geometry assurance component."
+  },
+  "doi:10.5281/zenodo.19424818": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Canonical boundary-value PINN benchmark; no manufacturing application."
+  },
+  "doi:10.5281/zenodo.19414830": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Canonical boundary-value PINN benchmark; no manufacturing application."
+  },
+  "doi:10.5281/zenodo.19414831": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Canonical boundary-value PINN benchmark; no manufacturing application."
+  },
+  "doi:10.33737/jgpps/168293": {
+   "verdict": "baseline",
+   "group": null,
+   "reason": "Purely data-driven CFD surrogate for manufacturing-tolerance UQ and blade assembly arrangement.",
+   "assigned_id": "M16"
+  },
+  "doi:10.48550/arxiv.2010.12344": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Groundwater-flow NAS-PINN; out-of-scope domain."
+  },
+  "doi:10.48550/arxiv.2311.15940": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN method for transformed geometries; general PDE benchmarks, not manufacturing."
+  },
+  "doi:10.48550/arxiv.2502.04719": {
+   "verdict": "include",
+   "group": "G5",
+   "reason": "Physics-informed tolerance-aware optimization of manufacturing/assembly tolerances in optics.",
+   "assigned_id": "O12"
+  },
+  "t:physicsinformedtoleranceallocationasurrogatebasedframeworkforthecontrolofgeometr": {
+   "verdict": "include",
+   "group": "G5",
+   "reason": "Surrogate-based physics-informed tolerance allocation controlling geometric variation on performance.",
+   "assigned_id": "O13"
+  },
+  "t:alikhanovxfpinnsadaptivephysicsinformedlearningfornonlinearfractionalpdesonnonun": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Fractional-PDE PINN method; no manufacturing geometry ties."
+  },
+  "doi:10.48550/arxiv.2605.01305": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Fractional-PDE PINN method duplicate; no manufacturing geometry ties."
+  },
+  "doi:10.1007/978-3-032-01194-7_36": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Machine-tool thermal-field PINN; temperature predicted, deformation/geometry not predicted."
+  },
+  "doi:10.1115/imece2024-144949": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Composite curing heat-transfer HyperPINN; process physics only."
+  },
+  "t:acceleratingelectrodepositionsimulationusingphysicsinformedneuralnetworks": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Electrodeposition PINN; process physics, not geometry/tolerance."
+  },
+  "doi:10.1117/12.3085008": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Elasticity PINN-FEM solver; no manufacturing geometry application."
+  },
+  "doi:10.1109/ictc66702.2025.11387909": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Ceramic sintering PINN; process physics only."
+  },
+  "doi:10.1016/j.mfglet.2025.06.009": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Navier-Stokes PINN methodology; fluid benchmarks, not tolerance/geometry."
+  },
+  "doi:10.3390/diagnostics12112627": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Biomedical MREPT PINN; out-of-scope domain."
+  },
+  "doi:10.15421/cims.4.313": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Aerospace PINN taxonomy review; no tolerance/geometry assurance content."
+  },
+  "doi:10.2166/wcc.2026.311": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Urban-flood PINN; out-of-scope domain."
+  },
+  "doi:10.48550/arxiv.2111.10751": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Thermo-mechanics PINN for graded materials; no manufacturing geometry ties."
+  },
+  "doi:10.5194/egusphere-egu25-11680": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Orbit-determination PINN; out-of-scope domain."
+  },
+  "doi:10.61782/fa.2025.0074": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Acoustic-tube PINN; out-of-scope domain."
+  },
+  "doi:10.36922/ijamd025440043": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Material characterization PIML perspective; no tolerance/geometry application."
+  },
+  "doi:10.1108/jimse-04-2026-0016": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN loss-weighting for manufacturing thermal digital twins; process physics only."
+  },
+  "doi:10.48550/arxiv.2505.12557": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Acoustic-tube PINN duplicate; out-of-scope domain."
+  },
+  "doi:10.1016/j.procir.2026.03.130": {
+   "verdict": "include",
+   "group": "G1",
+   "reason": "PINN surrogate for tolerance analysis of manufacturing-induced deviation effects on KCs.",
+   "assigned_id": "A12"
+  },
+  "doi:10.1007/s42452-026-09216-6": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Epidemic-model PINN; out-of-scope domain."
+  },
+  "doi:10.31224/5763": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Material characterization PIML perspective duplicate; no tolerance/geometry application."
+  },
+  "doi:10.52202/085713-4845": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General multi-physics neural operator; no manufacturing geometry ties."
+  },
+  "doi:10.1145/3799830.3799865": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General PDE-solver benchmark; no manufacturing geometry ties."
+  },
+  "doi:10.1109/tmag.2025.3615791": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Electromagnetics PINN hyperparameter method; no manufacturing geometry ties."
+  },
+  "doi:10.48550/arxiv.2204.12589": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN activation-function method; general benchmarks only."
+  },
+  "doi:10.3390/en16093820": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Thermal-protection probabilistic PINN; thermal design, not geometry/tolerance."
+  },
+  "doi:10.1177/09544054241290283": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM alloy fatigue-life PINN; material property, not geometry/tolerance."
+  },
+  "doi:10.20944/preprints202406.0404.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Metal AM temperature-field PINN; thermal process only."
+  },
+  "doi:10.2514/1.j061075": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Composite manufacturing optimization PINN; process/design optimization, not geometry assurance."
+  },
+  "doi:10.1117/12.3055798": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Raman-system PINN; photonics, not manufacturing geometry."
+  },
+  "doi:10.48550/arxiv.2507.10983": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Semiconductor film-deposition PINN review; process control, not geometry."
+  },
+  "doi:10.5281/zenodo.17620005": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Thermal PINN benchmarks for L-PBF seal; process physics only."
+  },
+  "doi:10.5281/zenodo.17620004": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Thermal PINN benchmarks for L-PBF seal; process physics only."
+  },
+  "doi:10.1109/icset65917.2025.11284154": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "PINN transfer learning predicts surface roughness, a geometric quality characteristic, in machining.",
+   "assigned_id": "E15"
+  },
+  "doi:10.48550/arxiv.2510.04490": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PDE-solver benchmark; no manufacturing geometry ties."
+  },
+  "doi:10.1016/j.istruc.2026.112311": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Bridge FE-model-updating PINN; structural monitoring, not manufacturing geometry."
+  },
+  "t:tacklingfailuremodesofpinnsandpikansusingconflictfreegradients": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN gradient-conflict method; general PDE solving."
+  },
+  "t:neuralpdeautomatingphysicsinformedneuralnetworkspinnswitherrorapproximations": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN software automation; general PDE solving."
+  },
+  "t:efficienterrorcertificationforphysicsinformedneuralnetworks": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN error-certification theory; general PDE solving."
+  },
+  "doi:10.3390/mi16080838": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Semiconductor optical metrology AI review; not assembly tolerance/geometry assurance."
+  },
+  "doi:10.21741/9781644903131-251": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "PINN with equilibrium physics predicts sheet-metal forming resultant geometry and stress.",
+   "assigned_id": "E16"
+  },
+  "doi:10.1016/j.addlet.2025.100327": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Wire-arc DED thermal-history PIML surrogate; process physics only."
+  },
+  "doi:10.1002/bit.70141": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Bioprocessing chromatography PINN; out-of-scope domain."
+  },
+  "doi:10.20944/preprints202408.0528.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN loss normalization for thermal manufacturing twins; process physics only."
+  },
+  "doi:10.3390/app152212234": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN convergence methods for PBF thermal problems; process physics only."
+  },
+  "doi:10.1109/icmcr64890.2025.10962807": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Robotic machining self-awareness PINN; dynamics, not geometry/tolerance."
+  },
+  "doi:10.48550/arxiv.2305.10157": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN error-certification theory duplicate; general PDE solving."
+  },
+  "doi:10.20944/preprints202510.1309.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "LBM-PINN flow solver; general CFD."
+  },
+  "t:variationalboostingforphysicsinformedneuralnetworks": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Variational PINN training method; general PDE solving."
+  },
+  "doi:10.1002/aic.70611": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN digital-twin process sustainability framework; process, not geometry assurance."
+  },
+  "doi:10.61424/jcsit.v3i2.1015": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Broad AM/smart-manufacturing infrastructure review; no tolerance/geometry focus."
+  },
+  "doi:10.26153/tsw/63515": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN vs XPINN DED thermal comparison; process physics only."
+  },
+  "t:responsmatrisbaseratartificielltneuraltntverkavkrnklyvsystem": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Nuclear-reactor PINN surrogate; out-of-scope domain."
+  },
+  "doi:10.1109/eurosime69483.2026.11511966": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Power-electronics assembly fatigue surrogate; reliability outcome, not geometry/tolerance."
+  },
+  "doi:10.1007/s12008-025-02364-w": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Automotive PINN case studies; thermal predictions, not geometry."
+  },
+  "doi:10.1016/j.ifacol.2024.08.538": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Robotic actuator identification PINN; dynamics, not geometry/tolerance."
+  },
+  "doi:10.48550/arxiv.2608.21683": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN model-selection methodology; general PDE solving."
+  },
+  "doi:10.48550/arxiv.2608.21818": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Shell-buckling reliability PINN; tolerances as inputs, not tolerance analysis."
+  },
+  "t:adaptivehardsoftphysicsinformedneuralnetworksforrobustboundaryconstrainedpdesolv": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN boundary-enforcement method; general PDE solving."
+  },
+  "doi:10.5815/ijitcs.2026.02.08": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Brownian-motion PINN; stochastic dynamics, out of scope."
+  },
+  "doi:10.48550/arxiv.2408.14502": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Concrete strength PINN; material property, not geometry."
+  },
+  "doi:10.1109/mecatronics-rem67547.2025.11349643": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Laser-wire AM thermal PINN; process physics only."
+  },
+  "doi:10.66238/ijcbs95": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "VLSI interconnect variation-aware PINN; IC parasitics, not assembly geometry."
+  },
+  "doi:10.1016/j.jhydrol.2026.136015": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "River-discharge PINN; out-of-scope domain."
+  },
+  "doi:10.11648/j.her.20261102.12": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Graduate course-design paper; not a research method contribution."
+  },
+  "doi:10.1016/j.procir.2026.03.117": {
+   "verdict": "include",
+   "group": "G1",
+   "reason": "PINN (DeepFEM) surrogates predict compliant thin-walled structure deformation in assembly.",
+   "assigned_id": "A12"
+  },
+  "doi:10.3390/machines14091016": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Shearer speed-control physics-guided RL; process control, not geometry."
+  },
+  "doi:10.48550/arxiv.2409.10784": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Digital-twin Sim2Real robotics review; no geometry assurance method."
+  },
+  "t:invertedmodelselectioninphysicsinformedneuralnetworkswhenalowerresidualselectsaw": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN model-selection methodology duplicate; general PDE solving."
+  },
+  "t:aphysicsinformedneuralnetworkapproachforrobustbucklingloadpredictionandreliabili": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Shell-buckling reliability PINN duplicate; tolerances as inputs, not tolerance analysis."
+  },
+  "doi:10.1159/000373886": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Term collision: primate social tolerance; unrelated field."
+  },
+  "doi:10.48550/arxiv.2008.13547": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Metal AM melt-pool PINN; thermal/fluid process physics only."
+  },
+  "doi:10.1016/j.addma.2025.104881": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Coupled thermal-geometry PINN predicts bead geometry in wire-arc DED.",
+   "assigned_id": "E17"
+  },
+  "doi:10.1109/icps51978.2022.9816983": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Multi-fidelity physics-informed composites processing; process physics only."
+  },
+  "doi:10.1145/3610548.3618251": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Physics-informed lithography simulator predicts fabrication-induced structural deviations in optics.",
+   "assigned_id": "E18"
+  },
+  "doi:10.1016/j.ijepes.2026.111714": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Power-flow physics-informed model; power systems domain."
+  },
+  "doi:10.1631/fitee.2500254": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Robot-dynamics PINN with force coupling; dynamics, not assembly geometry prediction."
+  },
+  "doi:10.1080/0951192x.2025.2509324": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Knowledge-graph disturbance-control review; no tolerance/geometry method."
+  },
+  "doi:10.48550/arxiv.2502.01820": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "LPBF temperature PINN/DeepONet; thermal process only."
+  },
+  "doi:10.1109/isqed69900.2026.11534700": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Electromigration BPINN; semiconductor reliability, out of scope."
+  },
+  "doi:10.2514/6.2025-2516": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "CMC creep constitutive PINN surrogate; material behavior, not geometry."
+  },
+  "doi:10.1063/5.0247810": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Pressure-field PINN for tube-bundle flows; fluid mechanics, out of scope."
+  },
+  "doi:10.1002/pamm.70113": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Linear-elasticity PINN convergence study; general mechanics."
+  },
+  "doi:10.24406/publica-7066": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Magnetic sensor device paper; tolerance measurement mention, no learning method."
+  },
+  "doi:10.1016/j.ecmx.2025.101233": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed digitalization for process flexibility; energy/process, not geometry."
+  },
+  "doi:10.63125/ny974y17": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "PIML thermal-distortion prediction (warping, dimensional inaccuracy) in metal AM.",
+   "assigned_id": "E19"
+  },
+  "doi:10.47176/jafm.19.9.4299": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Taguchi-Grey tolerance-CFD optimization; not a learning-based method."
+  },
+  "doi:10.3390/geotechnics6030084": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Geotechnical site-characterization PINN surrogate; out-of-scope domain."
+  },
+  "doi:10.3389/fmech.2026.1898899": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Fuel-cell stack assembly review; surrogate methods peripheral, no PIML tolerance method. [key transcription normalized]"
+  },
+  "doi:10.48550/arxiv.2202.06139": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Multi-fidelity physics-informed composites processing duplicate; process physics only."
+  },
+  "doi:10.31224/4241": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "EIT PINN for composite sensing; monitoring, out of scope."
+  },
+  "doi:10.1109/cac63892.2024.10864673": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Robotic-arm trajectory-control PINN; control, not geometry."
+  },
+  "doi:10.1115/detc2025-169732": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Semiconductor film-deposition PINN review duplicate; process control, not geometry."
+  },
+  "t:diffusionsimulationsforhvdccablesusingphysicsinformedneuralnetworkpinn": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "HVDC cable diffusion PINN; out-of-scope application."
+  },
+  "doi:10.61383/ejam.202534116": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN convergence theory for fractional diffusion; general analysis."
+  },
+  "doi:10.1007/978-981-92-0615-5_16": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Architectural topology-optimization PINN; structural design, not tolerance."
+  },
+  "doi:10.4028/p-12aeqc": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Autoclave cure/moisture PINN; process physics only."
+  },
+  "doi:10.5281/zenodo.19765137": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Domain-decomposition PINN method with beam benchmarks; general PDE solving."
+  },
+  "doi:10.5281/zenodo.19765136": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Domain-decomposition PINN method with beam benchmarks; general PDE solving."
+  },
+  "doi:10.63463/kjes1230": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "LPBF defect-mitigation PIML; porosity/quality outcome, not geometric deviation."
+  },
+  "doi:10.55092/am20260012": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Broad AI-in-manufacturing review; no tolerance/geometry focus."
+  },
+  "doi:10.5281/zenodo.21831225": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Heat-transfer PINN surrogate verification study; thermal process."
+  },
+  "t:modelingofdynamiccablesandmethodsfordeterminingcurvatureusingpinns": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Submarine-cable PINN modeling; out-of-scope application."
+  },
+  "doi:10.1115/1.4072640": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Special-issue editorial on PIML in manufacturing; no tolerance/geometry focus."
+  },
+  "doi:10.48550/arxiv.2609.04267": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Aerodynamic surrogate data fusion; aero, not manufacturing geometry."
+  },
+  "doi:10.48550/arxiv.2309.17343": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "ADJUDICATED: arXiv duplicate of published version"
+  },
+  "t:recentadvancesinadditivemanufacturingformechanicalcomponents": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General additive-manufacturing review; no PIML tolerance content."
+  },
+  "doi:10.48550/arxiv.2605.00839": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AI/ML smart-manufacturing roadmap; no tolerance/geometry focus."
+  },
+  "doi:10.1007/s10999-023-09685-2": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Crashworthiness design PINN; structural impact, not tolerance."
+  },
+  "doi:10.1016/j.cma.2024.117102": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Neural-FEM solver PI-MGNs; general simulation, not tolerance/geometry."
+  },
+  "doi:10.1016/j.procir.2021.11.263": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Stereolithography thermal-model PINN; process thermal only."
+  },
+  "doi:10.1080/17452759.2025.2569536": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Electrospinning process review; out of scope."
+  },
+  "doi:10.1002/pamm.202300203": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Extrusion-die shape optimization PINN; die design, no deviation/tolerance prediction."
+  },
+  "doi:10.1088/2057-1976/ad7960": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Freeze-casting solidification PINN; process physics, biomedical application."
+  },
+  "doi:10.1080/17452759.2025.2559996": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Cold-spray thermal/stress ML surrogates; stress fields, not geometry deviation."
+  },
+  "doi:10.1016/j.addma.2025.104953": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "XPINN DED temperature-history prediction; thermal process only."
+  },
+  "doi:10.3390/buildings16030682": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "RC-beam CNN-PINN surrogate; structural behavior, out of scope."
+  },
+  "doi:10.1002/pamm.202300265": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Concrete AM plasticity PINN; process/material modeling only."
+  },
+  "doi:10.1115/detc2021-70557": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "LPBF thermal-analysis PINN; process thermal only."
+  },
+  "doi:10.1117/12.3013159": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "EUV mask PINN electromagnetic simulator; lithography physics, not tolerance."
+  },
+  "t:stochasticgroundwaterflowanalysisinheterogeneousaquiferwithmodifiedneuralarchite": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Groundwater NAS-PINN duplicate; out-of-scope domain."
+  },
+  "doi:10.48550/arxiv.2412.18786": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "LMD thermal-stress PINN; stress prediction, no geometry/distortion outcome."
+  },
+  "doi:10.1016/j.mfglet.2025.06.133": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Multi-laser AM path-planning PINN thermal model; process only."
+  },
+  "doi:10.1108/rpj-08-2024-0343": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Copper LPBF relative-density PINN; material porosity, not geometry."
+  },
+  "doi:10.1016/j.mtcomm.2026.115035": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM Ti-6Al-4V fatigue PINN; material property, not geometry."
+  },
+  "doi:10.1016/j.matdes.2025.114284": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Direct-ink-write thermal PINN surrogate; thermal process only."
+  },
+  "doi:10.1103/t8g2-n22v": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN inference of oscillator coupling; general dynamics, out of scope."
+  },
+  "doi:10.1080/17686733.2026.2648339": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN infrared-thermography defect detection; NDE, out of scope."
+  },
+  "doi:10.1115/msec2020-8379": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM multi-scale UQ metamodeling; thermal/melt-pool quantities, not geometry."
+  },
+  "doi:10.48550/arxiv.2303.05824": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Generic inverse-problem surrogate design; tolerance is numerical accuracy term"
+  },
+  "t:spectralanalysisofhardconstraintpinnsthespatialmodulationmechanismofboundaryfunc": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN training theory; no manufacturing or geometry application"
+  },
+  "doi:10.6084/m9.figshare.31113189": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Water contamination PINN; out-of-domain infrastructure application"
+  },
+  "doi:10.6084/m9.figshare.31113189.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; water contamination PINN, out-of-domain"
+  },
+  "doi:10.1080/1573062x.2026.2613113": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; water contamination PINN, out-of-domain"
+  },
+  "doi:10.5281/zenodo.19420722": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General industrial AI framework; no tolerance/geometry assurance application"
+  },
+  "doi:10.5281/zenodo.19420721": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; general industrial CPS framework, no geometry application"
+  },
+  "t:physicsinformedresidualsforadaptivemeshrefinementinfinitedifferencepdesolvers": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General PDE mesh-refinement method; no manufacturing geometry tie"
+  },
+  "doi:10.3390/machines14080945": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Motor fault diagnosis; tolerance mention incidental, not tolerance analysis"
+  },
+  "doi:10.48550/arxiv.2402.10681": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General neural FE PDE solver; no deviation/geometry outcome"
+  },
+  "doi:10.48550/arxiv.2402.13588": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Generic physics-correction method; no manufacturing geometry application"
+  },
+  "doi:10.1117/12.3052069": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Lithography imaging physics; process simulation, not geometry assurance"
+  },
+  "doi:10.1201/9781003406327-3": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "DED temperature field prediction; thermal process physics, not geometry"
+  },
+  "doi:10.5781/jwj.2025.43.4.5": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Welding temperature field; process physics, not geometry prediction"
+  },
+  "doi:10.62051/srdzvs07": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General PINN PDE solver optimization; no manufacturing tie"
+  },
+  "doi:10.1007/s42452-026-09325-2": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Hardness prediction; material property, not geometry/tolerance"
+  },
+  "doi:10.1016/j.addma.2026.105289": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM temperature field prediction; thermal process physics"
+  },
+  "doi:10.48550/arxiv.2604.14562": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; AM thermal field prediction, not geometry"
+  },
+  "doi:10.5281/zenodo.21369517": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Materials-science AI review; no tolerance/geometry focus"
+  },
+  "doi:10.5281/zenodo.21369518": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate materials-science review; out of scope"
+  },
+  "doi:10.1109/tits.2026.3682356": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "RUL prognosis; not tolerance/geometry prediction"
+  },
+  "doi:10.3934/math.2026423": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Helmholtz interface PDE solver; no manufacturing tie"
+  },
+  "doi:10.48550/arxiv.2608.16475": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Porous medium equation PINN; no manufacturing application"
+  },
+  "doi:10.1016/j.petsci.2026.07.029": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Petroleum reservoir simulation; out-of-domain"
+  },
+  "doi:10.5281/zenodo.21788995": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Conjugate heat transfer surrogate; thermal, not geometry"
+  },
+  "doi:10.48550/arxiv.2606.02475": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; general PDE mesh refinement, no manufacturing tie"
+  },
+  "doi:10.5281/zenodo.21838653": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; conjugate heat transfer surrogate, thermal"
+  },
+  "doi:10.5281/zenodo.19567524": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Process safety PINN; petrochemical risk, not geometry"
+  },
+  "doi:10.1007/s44379-026-00076-w": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN regularization method; general PDE benchmarks only"
+  },
+  "doi:10.5281/zenodo.19583220": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; process safety PINN, out of scope"
+  },
+  "t:physicsinformedgenerativeaiforsemiconductormanufacturingenforcinghardphysicalcon": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Semiconductor process generative AI; process constraints, not geometry assurance"
+  },
+  "doi:10.60087/jaigs.v10i01.492": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Broad PIML/AM framework overview; no tolerance/geometry focus"
+  },
+  "doi:10.26434/chemrxiv.15000002/v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Synthetic biology ATP modules; out-of-domain"
+  },
+  "doi:10.55092/am20240008": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM monitoring review; thermal/process focus, not geometry"
+  },
+  "doi:10.1016/j.jmapro.2025.10.104": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "PINN springback prediction; dimensional deformation outcome in tube forming",
+   "assigned_id": "E20"
+  },
+  "doi:10.52202/085713-5615": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN optimization theory; generic PDE benchmarks"
+  },
+  "doi:10.1007/s00170-026-18072-y": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General AI-AM review; no tolerance/geometry focus"
+  },
+  "doi:10.3390/su16177259": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Energy consumption prediction; not geometry/tolerance"
+  },
+  "doi:10.12783/shm2019/32301": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Fatigue crack growth prognosis; not tolerance/geometry"
+  },
+  "doi:10.1109/isscc49657.2024.10454502": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Edge computing hardware; not a tolerance/geometry method"
+  },
+  "doi:10.1115/1.4068789": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Adhesive joint failure-mode prediction; not dimensional geometry/tolerance"
+  },
+  "doi:10.1080/00084433.2025.2593051": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Grain size prediction; microstructure, not geometry"
+  },
+  "doi:10.48550/arxiv.2401.02403": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM temperature field; thermal process physics"
+  },
+  "doi:10.48550/arxiv.2407.10761": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General AM PIML; no geometry outcome specified"
+  },
+  "doi:10.1016/j.jmrt.2025.08.021": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "HEA hardness prediction; material property"
+  },
+  "doi:10.1016/j.engappai.2026.114379": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "UAV control; tolerance means control precision, not manufacturing"
+  },
+  "doi:10.1016/j.rineng.2026.110279": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Mechanical property optimization; not geometry/tolerance"
+  },
+  "doi:10.1002/pc.70441": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Bolted-joint stress/damage prediction; performance focus, not assembly deviation"
+  },
+  "doi:10.1038/s41598-026-58348-7": {
+   "verdict": "include",
+   "group": "G2",
+   "reason": "Digital-twin PINN multiscale AM prediction including structural deformation",
+   "assigned_id": "D06"
+  },
+  "doi:10.3390/polym18050629": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Defect detection monitoring; classification, not geometry prediction"
+  },
+  "doi:10.3390/met16050476": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Fatigue prediction review; not tolerance/geometry"
+  },
+  "doi:10.3390/met16050465": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "LPBF thermal PINN optimization; process physics, not geometry"
+  },
+  "doi:10.1016/j.matdes.2025.115059": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Lattice damage mechanics; mechanical behavior, not geometry"
+  },
+  "doi:10.12783/shm2025/37480": {
+   "verdict": "include",
+   "group": "G2",
+   "reason": "iPINN shape sensing; real-time deformation reconstruction, digital-twin context",
+   "assigned_id": "D07"
+  },
+  "doi:10.1109/tim.2025.3633352": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM fault diagnosis; not geometry/tolerance"
+  },
+  "doi:10.1063/5.0264343": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Plasma MHD flow simulation; fluid domain"
+  },
+  "doi:10.1007/s40747-026-02262-y": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Industrial reactor simulation; process fields, not geometry"
+  },
+  "doi:10.1016/j.procir.2026.05.173": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "PINN keyhole welding; predicts melt-pool/weld geometry features",
+   "assigned_id": "E21"
+  },
+  "doi:10.1063/5.0322499": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Energy storage systems; out-of-domain"
+  },
+  "doi:10.1115/msec2022-85392": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Printed sensor calibration prediction; not geometry/tolerance analysis"
+  },
+  "t:constraintguidedpinnsaconstrainedoptimizationapproach": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General constrained-PINN method; no geometry application evident"
+  },
+  "doi:10.1364/oe.600846": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Fiber-sensor shape reconstruction; no manufacturing/assembly tie shown"
+  },
+  "t:physicsinformedneuralnetworkapproachforsurfacewavepropagationinfunctionallygrade": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Wave dispersion PINN; structural mechanics, not manufacturing"
+  },
+  "t:directandindirectphysicsinformedneuralnetworksfordirichletboundarycontrolofsemil": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Parabolic PDE boundary control; no manufacturing application"
+  },
+  "t:domainvaliditygatedmetamorphictestingofscientificmlsurrogates": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "SciML software testing; no manufacturing geometry"
+  },
+  "doi:10.31449/inf.v50i2.10897": {
+   "verdict": "baseline",
+   "group": null,
+   "reason": "Data-driven milling pocket deviation prediction; no physics integration",
+   "assigned_id": "M17"
+  },
+  "doi:10.48550/arxiv.2608.18903": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Coil design optimization surrogate; not tolerance/geometry"
+  },
+  "doi:10.1109/icrms65480.2025.00042": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "RUL prediction; manufacturing deviations mention incidental"
+  },
+  "doi:10.1115/1.4070741": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Residual stress identification; stress field, not geometry"
+  },
+  "doi:10.1115/imece-india2025-159775": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Composite strain energy analysis; not manufacturing geometry"
+  },
+  "doi:10.22541/essoar.176366734.43101104/v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Space plasma MHD reconstruction; out-of-domain"
+  },
+  "doi:10.1142/s0219686726500344": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Hardness prediction; material property, not geometry"
+  },
+  "doi:10.20944/preprints202510.1423.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; defect detection monitoring, not geometry prediction"
+  },
+  "doi:10.1109/cstic68613.2026.11537714": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "PINN predicts photoresist film thickness; dimensional quality outcome",
+   "assigned_id": "E22"
+  },
+  "doi:10.69997/sct.137896": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Pharmaceutical tablet properties; not geometry"
+  },
+  "doi:10.48550/arxiv.2605.25640": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Magnetic field mapping; physics instrumentation, not manufacturing"
+  },
+  "t:3dmagneticfieldreconstructionandmappingwithphysicsinformedneuralnetworks": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; magnetic field mapping, not manufacturing"
+  },
+  "t:learnableviscositymodulationinphysicsinformedneuralnetworksforincompressibleflow": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Incompressible flow PINN; fluid domain"
+  },
+  "doi:10.48550/arxiv.2603.27496": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; flow reconstruction PINN, fluid domain"
+  },
+  "doi:10.5281/zenodo.21865023": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PDE solver library; no manufacturing tie"
+  },
+  "doi:10.5281/zenodo.21860298": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; PDE solver library, no manufacturing tie"
+  },
+  "doi:10.5281/zenodo.21839392": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; PDE solver library, no manufacturing tie"
+  },
+  "doi:10.5281/zenodo.21871378": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; PDE solver library, no manufacturing tie"
+  },
+  "doi:10.5281/zenodo.21850047": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; PDE solver library, no manufacturing tie"
+  },
+  "doi:10.5281/zenodo.21843920": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; PDE solver library, no manufacturing tie"
+  },
+  "doi:10.5281/zenodo.21875876": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; PDE solver library, no manufacturing tie"
+  },
+  "doi:10.5281/zenodo.21839391": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; PDE solver library, no manufacturing tie"
+  },
+  "doi:10.3390/ma19163454": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "PINN predicts AM single-track geometric features",
+   "assigned_id": "E23"
+  },
+  "t:dbpnetdampercharacteristicsbasedbayesianphysicsinformedneuralnetworkforwheelload": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Vehicle wheel-load estimation; not manufacturing geometry"
+  },
+  "doi:10.48550/arxiv.2609.14269": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; parabolic boundary control PINN, no manufacturing"
+  },
+  "doi:10.1021/bk-2026-1529.ch007": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Biopharmaceutical process modeling; out of scope"
+  },
+  "t:pigrandphysicsinformedgraphneuraldiffusionforintelligentadditivemanufacturing": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Thermal prediction in 3D printing; process physics"
+  },
+  "doi:10.5281/zenodo.18814259": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Topology optimization design; not tolerance/geometry assurance"
+  },
+  "doi:10.5281/zenodo.18814260": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; topology optimization design, out of scope"
+  },
+  "doi:10.2174/0126662558442163260226071649": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Defect detection image review; not tolerance/geometry prediction"
+  },
+  "doi:10.7282/t3-rgpt-5136": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Melt pool dynamics PIML dissertation; thermal process"
+  },
+  "doi:10.21608/svusrc.2026.484911.1331": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Natural fiber composite review; out of scope"
+  },
+  "doi:10.5281/zenodo.21788996": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Scramjet thermostructural surrogate; not manufacturing geometry"
+  },
+  "doi:10.1088/1742-6596/3196/1/012032": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Metamaterial inverse design; not tolerance/geometry"
+  },
+  "doi:10.37255/jme.v21i2pp064-076": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General AI-AM review; no tolerance/geometry focus"
+  },
+  "doi:10.7862/rm.2026.15": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Strain localization prediction; mechanical response, not geometry"
+  },
+  "doi:10.1093/mam/ozag053.569": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Ptychographic imaging reconstruction; not tolerance analysis"
+  },
+  "doi:10.1088/1742-6596/3220/1/012084": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Crystal growth simulation; process, not geometry assurance"
+  },
+  "doi:10.7302/5979": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Photonic crystal manufacturing; optical domain, term collision"
+  },
+  "doi:10.48550/arxiv.2609.13146": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "3D asset generation assembly validity; graphics, not tolerance analysis"
+  },
+  "doi:10.1007/s00170-026-19085-3": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Robotic weld planning adapting to fit-up variation; not deviation analysis"
+  },
+  "doi:10.1115/detc2019-98332": {
+   "verdict": "baseline",
+   "group": null,
+   "reason": "Physics-agnostic data-driven surrogates predict AM distortion fields",
+   "assigned_id": "M18"
+  },
+  "doi:10.48550/arxiv.2511.13178": {
+   "verdict": "include",
+   "group": "G2",
+   "reason": "PINO real-time AM distortion prediction for digital-twin control",
+   "assigned_id": "D08"
+  },
+  "doi:10.1149/ma2026-016678mtgabs": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Battery electrode microstructure; out of scope"
+  },
+  "t:rapidcharacterizationofmaterialheterogeneitythroughacousticresonanceandphysicsin": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Acoustic NDE material heterogeneity; not geometry/tolerance"
+  },
+  "doi:10.62311/nesx/rb32ag-978-81-68314-68-9": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "In-space manufacturing book; broad, no tolerance focus"
+  },
+  "doi:10.6084/m9.figshare.33320364.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Interface strength prediction; material property, not geometry"
+  },
+  "doi:10.6084/m9.figshare.33320364": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; interface strength prediction, not geometry"
+  },
+  "doi:10.6084/m9.figshare.33320364.v2": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; interface strength prediction, not geometry"
+  },
+  "doi:10.1115/1.889312_fm": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Book front matter; not a research record"
+  },
+  "doi:10.6084/m9.figshare.31884061.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General ML-AM review; no tolerance/geometry focus"
+  },
+  "doi:10.6084/m9.figshare.31884061": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; general ML-AM review, no tolerance focus"
+  },
+  "doi:10.20944/preprints202608.0814.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "NVH quality control review; not dimensional geometry"
+  },
+  "doi:10.1038/srep09528": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Colloidal self-assembly; term collision, out of domain"
+  },
+  "doi:10.1242/jcs.166447": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Cell biology assembly; out of domain"
+  },
+  "doi:10.1007/s00419-025-02816-5": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Laminated plate stress PINN; structural analysis, not tolerance"
+  },
+  "doi:10.1115/1.4065457": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Melt pool dynamics PIML; thermal/fluid process"
+  },
+  "doi:10.2460/ajvr.76.1.84": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Veterinary glucose tolerance study; term collision"
+  },
+  "doi:10.1038/s41467-025-63790-8": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "INN surrogate for AM heat transfer; thermal"
+  },
+  "doi:10.1038/s41598-025-28074-7": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Curcumin nanocomposite formulation; out of scope"
+  },
+  "doi:10.1002/eji.201444917": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Immunology tolerance; term collision, out of domain"
+  },
+  "doi:10.1038/s41598-025-32497-7": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "RUL prediction; not tolerance/geometry"
+  },
+  "doi:10.3390/pr13051544": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "MOSFET process optimization; electrical parameters, not geometry"
+  },
+  "doi:10.3389/fmech.2026.1774757": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Composite AM review; general, no tolerance focus [key transcription normalized]"
+  },
+  "doi:10.3390/polym14102049": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Rubber process uncertainty model; no geometry/deviation outcome"
+  },
+  "doi:10.1155/2015/317142": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Engine air-ratio control; fault-tolerance term collision"
+  },
+  "doi:10.48550/arxiv.2206.07756": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM thermal modeling PINN; temperature, not geometry"
+  },
+  "doi:10.1109/acpee60788.2024.10532748": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Power electronics control; out of domain"
+  },
+  "doi:10.15421/472506": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Aerospace PGML review; fatigue/flutter, not tolerance"
+  },
+  "doi:10.3390/mi16101134": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "TSV interconnect EM design; not tolerance/geometry"
+  },
+  "doi:10.1115/1.4069381": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Thermal-physics-informed PointNet predicts WA-DED distortion",
+   "assigned_id": "E24"
+  },
+  "doi:10.1007/s44245-026-00274-z": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Propeller aerodynamics review; out of scope [key transcription normalized]"
+  },
+  "doi:10.48550/arxiv.2404.10296": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; INN heat-transfer surrogate, thermal"
+  },
+  "doi:10.48550/arxiv.2405.09572": {
+   "verdict": "include",
+   "group": "G2",
+   "reason": "Neural-operator digital twin predicts AM defects incl. surface roughness",
+   "assigned_id": "D09"
+  },
+  "doi:10.1115/detc2019-97492": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Robust AM microstructure optimization; not geometry"
+  },
+  "doi:10.48550/arxiv.2307.12304": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate; melt pool PIML, thermal process"
+  },
+  "doi:10.1115/1.4064059": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Special-issue editorial; not a research record"
+  },
+  "doi:10.1109/etfa61755.2024.10710827": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN thermal simulation for AM parameters; process physics"
+  },
+  "doi:10.48550/arxiv.2505.01424": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Microstructure modeling evaluation; not geometry"
+  },
+  "doi:10.2351/7.0002049": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Physics-guided surface roughness prediction; geometric quality in AM",
+   "assigned_id": "E25"
+  },
+  "doi:10.1515/rnam-2024-0023": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Hemodynamics PINN; biomedical, out of domain"
+  },
+  "doi:10.20944/preprints202512.0586.v2": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AM shrinkage/defect review; not learning-based"
+  },
+  "doi:10.3390/lubricants14030119": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Seal design Kriging optimization; not tolerance analysis"
+  },
+  "doi:10.1002/pc.29391": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Cure/temperature field sensing; process, not geometry"
+  },
+  "doi:10.1109/iecon55916.2024.10905883": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Fault diagnosis review; not tolerance/geometry"
+  },
+  "doi:10.1115/msec2025-155872": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN thermal history prediction in multi-laser AM; process physics, not geometry/tolerance."
+  },
+  "doi:10.1115/1.4070105": {
+   "verdict": "include",
+   "group": "G1",
+   "reason": "Multiphysics-informed ML predicts component displacement after SMT self-alignment; assembly deviation outcome.",
+   "assigned_id": "A13"
+  },
+  "doi:10.1016/j.rineng.2025.108582": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-guided ML for pico-hydropower performance; energy domain, no manufacturing geometry."
+  },
+  "doi:10.1007/s00170-025-17227-7": {
+   "verdict": "include",
+   "group": "G1",
+   "reason": "Physics-guided generation of SMT self-alignment outcomes via displacement vectors; assembly geometry assurance.",
+   "assigned_id": "A14"
+  },
+  "doi:10.1007/s42452-026-08323-8": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of composite manufacturing process control and defect detection; not tolerance/assembly geometry."
+  },
+  "doi:10.23967/icossar.2025.030": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Physics-informed PCE with IGA sensitivities propagates geometric variation; tolerance-UQ enabling surrogate.",
+   "assigned_id": "E26"
+  },
+  "doi:10.48550/arxiv.2511.18820": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PECANN incompressible flow solver; fluid PDE method, no manufacturing geometry ties."
+  },
+  "t:unsupervisedsimulationofincompressibleflowswithphysicsandequalityconstrainedarti": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate flow-solver record; fluid PDEs, no manufacturing geometry application."
+  },
+  "doi:10.20944/preprints202512.0586.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of AM defect/porosity formation and mitigation; no learning-based tolerance method."
+  },
+  "doi:10.1201/9781003778677-292": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN sensor placement for structural health monitoring; not manufacturing geometry assurance."
+  },
+  "doi:10.1109/tie.2026.3682364": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN inverter LC-filter parameter estimation; power electronics, tolerance term collision."
+  },
+  "doi:10.1016/j.nxener.2026.101008": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed ML for perovskite solar-cell efficiency; materials, tolerance-factor term collision."
+  },
+  "doi:10.48550/arxiv.2606.18175": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "General PINN quasilinearization PDE solver; no manufacturing geometry application."
+  },
+  "t:aconvexquasilinearizationmethodforsolvingnonlinearpdeswithphysicsinformedneuraln": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate general PINN PDE solver; no manufacturing ties."
+  },
+  "doi:10.48550/arxiv.2608.25327": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Controlled PINN failure-remedy study on benchmark PDEs; no manufacturing application."
+  },
+  "doi:10.3390/sym18081394": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN traffic congestion detection; transportation domain, no manufacturing geometry."
+  },
+  "doi:10.1364/oe.596390": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN inverse design of Raman amplifiers; photonics, not manufacturing tolerance."
+  },
+  "doi:10.31449/inf.v50i13.13706": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN-assisted logistics routing optimization; logistics domain, no geometry application."
+  },
+  "doi:10.1016/j.mtcomm.2026.116177": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN anisotropic heat transfer in composites; thermal physics, not geometry/tolerance."
+  },
+  "doi:10.71426/jmt.v3.i1.pp380-405": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of antenna design optimization; unrelated domain."
+  },
+  "doi:10.1021/acsami.6c04768": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of ML plasma diagnostics in semiconductor processing; process, not geometry/tolerance."
+  },
+  "doi:10.1016/j.compind.2026.104520": {
+   "verdict": "baseline",
+   "group": null,
+   "reason": "Pure data-driven CVAE inverse design for AM dimensional line-width control.",
+   "assigned_id": "M19"
+  },
+  "doi:10.17134/khosbd.1939476": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-guided residual learning for PV power reconstruction; energy domain."
+  },
+  "doi:10.3390/ma19122607": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-constrained surrogate for fabrication-tolerant TENG device design; not assembly tolerance analysis."
+  },
+  "doi:10.1088/1742-6596/3277/1/012141": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Machining surrogate predicts force/temperature/roughness; process physics, not geometry deviation."
+  },
+  "doi:10.48550/arxiv.2208.09182": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed control of colloidal self-assembly; materials science, assembly term collision."
+  },
+  "doi:10.47392/irjaeh.2026.0170": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN for mathematical formula OCR; document recognition, no manufacturing ties."
+  },
+  "doi:10.30538/oms2026.0303": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN heat equation benchmark with dynamic boundary conditions; pure PDE method."
+  },
+  "doi:10.1016/j.rineng.2026.109549": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN transient thermal simulation of MIG welding; process heat, not distortion prediction."
+  },
+  "doi:10.1371/journal.pone.0357497": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN predicts drilling delamination damage; defect prediction, not geometric deviation."
+  },
+  "doi:10.1038/s41598-026-61240-z": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN predicts coating residual stress; stress field, not geometry/tolerance."
+  },
+  "doi:10.5281/zenodo.22668105": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Educational code collection for AM simulation; not a research method record."
+  },
+  "doi:10.5281/zenodo.22668104": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate educational AM simulation code; not a research record."
+  },
+  "doi:10.1080/0951192x.2026.2711051": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of ML in aluminum AM process/structure; not tolerance/assembly geometry."
+  },
+  "doi:10.65731/ama/2026-0056": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of ML in AM incl. biomedical implants; process focus, no tolerance."
+  },
+  "doi:10.1016/j.mtcomm.2026.115698": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of theory-guided ML for AM microstructure/stress; not geometry assurance."
+  },
+  "doi:10.1016/j.matdes.2026.116613": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN-hybrid fatigue life prediction with defects; fatigue, not tolerance analysis."
+  },
+  "doi:10.1115/1.4072139": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN-XGBoost predicts sintered density; process property, not geometry deviation."
+  },
+  "doi:10.1021/acsami.6c01560": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "PINN predicts and controls PVDF microfiber dimensions in E-FDM printing.",
+   "assigned_id": "E27"
+  },
+  "doi:10.5281/zenodo.21095846": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Continuum-mechanics textile process framework; no learning, no tolerance/geometry."
+  },
+  "doi:10.5281/zenodo.21095845": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate textile conservation framework; no ML or tolerance application."
+  },
+  "doi:10.5281/zenodo.19152795": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Generic digital twin framework; manufacturing cell case lacks geometry assurance specifics."
+  },
+  "doi:10.5281/zenodo.19152796": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate TwinAI digital twin record; no geometry assurance specifics."
+  },
+  "doi:10.58578/ijemt.v4i2.10241": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Deep learning SDE approximation benchmarks; general numerical method."
+  },
+  "t:digitaltwinmodelingofheattreatmentofcastmetalsusingopenfoamandphysicsinformedai": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Digital twin of furnace heat treatment; thermal process, no geometry outcome."
+  },
+  "doi:10.1080/17452759.2026.2662178": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed cooling rate and grain morphology prediction; microstructure, not geometry."
+  },
+  "doi:10.3389/fmech.2026.1888696": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-guided surrogate for compliant mechanism design; performance design, not deviation prediction. [key transcription normalized]"
+  },
+  "doi:10.3390/act15060344": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed damper modeling; automotive component dynamics, no manufacturing tolerance."
+  },
+  "doi:10.2172/2523619": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PGML machining parameter tuning for aerostructures; no explicit geometry/deviation outcome."
+  },
+  "doi:10.1115/detc2024-143787": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Physics-based GNN predicts post-milling flatness deformation against manufacturing tolerances.",
+   "assigned_id": "E28"
+  },
+  "doi:10.1109/aetcse69203.2026.11504047": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-guided anomaly image generation for inspection; defect imagery, not geometry assurance."
+  },
+  "doi:10.1038/s41598-026-46315-1": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Physics-guided ML predicts ECMM overcut and taper angle; dimensional/geometric responses.",
+   "assigned_id": "E29"
+  },
+  "doi:10.1109/ted.2026.3698400": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed CMOS device electrical prediction; electrical parameters, not geometry."
+  },
+  "doi:10.7302/dspace/29727": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Physics-informed framework models geometric accuracy of two-photon lithography parts.",
+   "assigned_id": "E30"
+  },
+  "doi:10.1109/dcas69364.2026.11544610": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed antenna synthesis surrogates; antenna domain, no manufacturing geometry."
+  },
+  "doi:10.1117/12.3122441": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Physics-informed springback compensation regulates tube-bending geometric deviation.",
+   "assigned_id": "E31"
+  },
+  "doi:10.55092/ae20260006": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Mechanism-data fusion predicts L-DED microstructure; grain morphology, not geometry."
+  },
+  "t:rntgenctondersteundedatagedreveninprocesmonitoringvoormetaallaserpowderbedfusion": {
+   "verdict": "baseline",
+   "group": null,
+   "reason": "Data-driven in-process prediction of LPBF surface dimensional errors and pores.",
+   "assigned_id": "M20"
+  },
+  "doi:10.17605/osf.io/cjd2h": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Scoping review of PIML fatigue/fracture; unrelated to tolerance/assembly geometry."
+  },
+  "doi:10.3390/coatings16080975": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of AM residual stress/deformation mechanisms; not a PIML tolerance method."
+  },
+  "t:neitherprecisionnorarchitecturealonecontrolledtestsoffailureremediesforphysicsin": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate PINN failure-remedy benchmark; general PDE study."
+  },
+  "doi:10.1109/tci.2022.3233467": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed panoramic image restoration; optics imaging, tolerance term collision."
+  },
+  "doi:10.1109/access.2024.3384471": {
+   "verdict": "include",
+   "group": "G2",
+   "reason": "Physics-informed data-driven digital twin predicts contour error for machining quality.",
+   "assigned_id": "D10"
+  },
+  "doi:10.1109/tii.2024.3438256": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-guided neural spacecraft attitude control; no manufacturing geometry."
+  },
+  "doi:10.63125/8xm7wa53": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of AI for perovskite PV; unrelated energy domain."
+  },
+  "doi:10.48550/arxiv.2206.06070": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate panoramic imaging restoration paper; optics, no manufacturing ties."
+  },
+  "doi:10.20944/preprints202311.0041.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "ADJUDICATED: preprint duplicate of published IEEE Access version"
+  },
+  "doi:10.1109/jsen.2025.3622594": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN robot foot force sensor; robotics perception, no tolerance application."
+  },
+  "doi:10.1109/ojuffc.2026.3679991": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed acoustic levitation distance control; lab manipulation, not manufacturing."
+  },
+  "doi:10.1118/1.4924540": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "IMRT QA tolerance criteria study; medical physics, term collision."
+  },
+  "doi:10.20944/preprints202311.0041.v2": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "ADJUDICATED: preprint duplicate of published IEEE Access version"
+  },
+  "doi:10.20944/preprints202311.0041.v3": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "ADJUDICATED: preprint duplicate of published IEEE Access version"
+  },
+  "doi:10.1364/ol.600996": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Spectral parameterization for optical tolerancing; optical design domain, not assembly manufacturing."
+  },
+  "doi:10.3390/s26185802": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed RUL of circuit breakers; prognostics, not tolerance."
+  },
+  "doi:10.1016/j.cma.2026.119356": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Weak-form neural operator for hyperelasticity; general PDE method."
+  },
+  "doi:10.1093/mam/ozag053.322": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed electron tomography reconstruction; microscopy, not manufacturing."
+  },
+  "doi:10.1098/rsta.2022.0391": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN fatigue crack path prediction; fatigue domain, tolerance term collision."
+  },
+  "doi:10.3389/fviro.2025.1729171": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "AI for hepatitis B virology; biomedical domain. [key transcription normalized]"
+  },
+  "doi:10.48550/arxiv.2309.12211": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed state-space models for transport phenomena plants; process systems."
+  },
+  "doi:10.1016/j.matdes.2025.114918": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Data-driven LPBF mechanical property prediction; properties, not geometry."
+  },
+  "doi:10.1002/dac.70184": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Blockchain FENN routing in WSN; networking, no geometry application."
+  },
+  "doi:10.1109/access.2026.3651811": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PIDNN beamforming with array imperfection tolerance; antenna domain."
+  },
+  "doi:10.1177/14644193261438931": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Random-projection integrator for multibody DAEs; numerical method, solver-tolerance collision."
+  },
+  "doi:10.1109/tte.2026.3692658": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Magnetic coupler multiphysics co-design; power electronics, no tolerance analysis."
+  },
+  "doi:10.1117/12.3091946": {
+   "verdict": "include",
+   "group": "G6",
+   "reason": "Physics-informed transformer identifies robot DH geometric errors from machining tolerances.",
+   "assigned_id": "E32"
+  },
+  "doi:10.6084/m9.figshare.23977800": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Dataset for fatigue crack path study; data deposit, fatigue domain."
+  },
+  "doi:10.5281/zenodo.19041647": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "ML for BOF steelmaking process; process prediction, not geometry."
+  },
+  "doi:10.5281/zenodo.21396633": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate BOF steelmaking thesis; process prediction, not geometry."
+  },
+  "doi:10.48550/arxiv.2501.01000": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed GPs for flight-test envelope expansion; aerospace testing, tolerance collision."
+  },
+  "doi:10.12783/shm2025/37485": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PIML structural health monitoring of composites; SHM, not manufacturing tolerance."
+  },
+  "doi:10.1109/ei268505.2025.11425220": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed voltage sag loss assessment; power quality domain."
+  },
+  "doi:10.48550/arxiv.2509.21123": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN diamond particle detector design; particle physics instrumentation."
+  },
+  "doi:10.2514/1.i011606": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed GPs flight envelope expansion; aerospace, no manufacturing."
+  },
+  "doi:10.1016/j.epsr.2026.113906": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of PIML for microgrid control; power systems domain."
+  },
+  "doi:10.5281/zenodo.18776435": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PIML perovskite stability discovery; materials science."
+  },
+  "t:pretrainfiniteelementmethodapretrainingandwarmstartframeworkforpdesviaphysicsinf": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Pretrained FEM neural operator framework; general PDE solving."
+  },
+  "doi:10.48550/arxiv.2601.03086": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate pretrained-FEM neural operator; general PDE method."
+  },
+  "doi:10.5281/zenodo.18776434": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate perovskite PIML discovery record; materials science."
+  },
+  "doi:10.1109/jstars.2026.3706420": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed UAV infrared detection; remote sensing, tolerance-slab term collision."
+  },
+  "t:datafreeneuralpdesolversbasedongraphneuralnetworksandweakforms": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Data-free GNN weak-form PDE solver; general numerical method."
+  },
+  "doi:10.68159/q185736155": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed GNN pressure ulcer prediction; biomedical domain."
+  },
+  "doi:10.1145/3822454.3822481": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Spiking SNN power converter monitoring; electronics, tolerance term collision."
+  },
+  "doi:10.48550/arxiv.2604.15714": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate SNN converter health monitoring; electronics prognostics."
+  },
+  "doi:10.61784/jcsee3135": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of AI aerospace electric motor design; motor design domain."
+  },
+  "doi:10.1117/12.3117220": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "PINN multi-robot formation control; robotics, no tolerance application."
+  },
+  "doi:10.1109/iceace67491.2025.11439775": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "ML inverse design of ultrafast lasers; photonics domain."
+  },
+  "doi:10.3390/rs18132204": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-guided radar point-target detection; remote sensing domain."
+  },
+  "doi:10.1103/prxenergy.2.033011": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Grain-boundary electrocatalysis study; materials chemistry."
+  },
+  "doi:10.3390/polym15244711": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Phase-field/PINN polymer morphology prediction; materials, not manufacturing tolerance."
+  },
+  "doi:10.1080/00295450.2025.2480978": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "SiC composite multiscale nuclear modeling; materials qualification."
+  },
+  "doi:10.1149/1945-7111/ae489b": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed LSTM battery RUL; battery prognostics."
+  },
+  "doi:10.1115/ipc2022-87313": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-constrained ML pipeline corrosion defect sizing; in-service NDE, not manufacturing tolerance."
+  },
+  "doi:10.3390/app152212186": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed MR-PET stroke imaging; biomedical domain."
+  },
+  "doi:10.1016/j.dte.2026.100127": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Damage-tolerance workflow for turbine discs; fracture mechanics, term collision."
+  },
+  "doi:10.1016/j.mtcomm.2026.115063": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of strain hardening mechanisms; materials, no tolerance method."
+  },
+  "doi:10.1088/2040-8986/ae8605": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "THz metasurface review; photonics, fabrication-tolerance mention only."
+  },
+  "doi:10.23919/inc-usnc-ursi61303.2024.10632459": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "DeepONet UQ for EM fabrication tolerances; EM CAD domain, not assembly."
+  },
+  "t:neuralnetworksensemblestoacceleratepowergridcontingencyanalysis": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "GNN ensembles for power grid contingencies; power systems."
+  },
+  "doi:10.48550/arxiv.2412.00636": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Adaptive-basis DNN PDE solver; general numerical method."
+  },
+  "doi:10.55041/isjem02849": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "TMR self-healing hardware; electronics reliability."
+  },
+  "doi:10.1088/1572-9494/ae2b60": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Wiener path integral combat model; military operations research."
+  },
+  "doi:10.48550/arxiv.2512.21957": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate combat-rule path integral; unrelated domain."
+  },
+  "doi:10.1109/icoecai67333.2025.11335865": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "IEKF physics-informed SINDy; general system identification."
+  },
+  "t:voorspellingvandetransversaletrekeigenschappenvanvezelversterktecomposieteneenda": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Physics-informed composite transverse failure prediction; micromechanics, not tolerance."
+  },
+  "doi:10.1109/iatmsi68868.2026.11465248": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Digital twin EV charging fault tolerance; power systems."
+  },
+  "doi:10.1016/j.ymssp.2026.114886": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Masonry vault seismic assessment; civil structural domain."
+  },
+  "doi:10.1021/acsaem.6c01815": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Flexible battery cathode materials; battery materials."
+  },
+  "doi:10.5281/zenodo.22645944": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Tokamak coil equilibrium optimization; fusion plasma."
+  },
+  "doi:10.5281/zenodo.22645945": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate tokamak optimization record; fusion plasma."
+  },
+  "doi:10.1007/s11831-026-10522-w": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Review of model error treatments in simulation; general UQ."
+  },
+  "doi:10.7910/dvn/jxwtju": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate tokamak dataset; fusion plasma."
+  },
+  "doi:10.48550/arxiv.2304.14894": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "THz tomographic image restoration; imaging, not manufacturing."
+  },
+  "doi:10.1109/cosite60233.2023.10249263": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Keynote on THz imaging restoration; imaging domain."
+  },
+  "doi:10.60893/figshare.jap.c.8121287.v1": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "RRAM-MRAM crossbar co-design; computing hardware."
+  },
+  "doi:10.60893/figshare.jap.c.8121287": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate RRAM-MRAM crossbar record; computing hardware. [key transcription normalized]"
+  },
+  "doi:10.1063/5.0293805": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "RRAM-MRAM crossbar journal record; computing hardware."
+  },
+  "doi:10.1109/aespe70224.2026.11601951": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Digital twin for transmission towers; structural monitoring."
+  },
+  "doi:10.1016/j.jmrt.2026.08.269": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Laser-arc hybrid welding process review; process focus, gap-tolerance mention only."
+  },
+  "t:evaluatingdvcvqkdarchitecturesforsafelongtermsecurestorageariskmodelandilpbasedc": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "QKD network cost optimization; quantum networking."
+  },
+  "doi:10.48550/arxiv.2607.19010": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate QKD optimization record; quantum networking."
+  },
+  "doi:10.1021/acs.analchem.2c01421": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Phase mask for point-of-care imaging; optics/biomedical, tolerance mention only."
+  },
+  "doi:10.48550/arxiv.2605.03910": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Inverse-designed optomechanical crystal; photonics device."
+  },
+  "t:inversedesignedreleasefreeoptomechanicalcrystalwithhighphotonphononcoupling": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate optomechanical crystal design; photonics."
+  },
+  "doi:10.48550/arxiv.2401.01485": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Metasurface photon indistinguishability characterization; quantum photonics."
+  },
+  "t:benchmarkingquantumandclassicalalgorithmsforthe1dburgersequationqtnhseandpinn": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Burgers equation solver benchmarking; general PDE methods."
+  },
+  "doi:10.48550/arxiv.2602.04239": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate Burgers benchmark record; general PDE."
+  },
+  "doi:10.48550/arxiv.2412.06623": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Optimal control of quantum gates with PINN; quantum computing."
+  },
+  "doi:10.1109/qce60285.2024.00159": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Duplicate quantum gate PINN control; quantum computing."
+  },
+  "t:quantumoptimizationalgorithmsforstronglycorrelatedmanybodysystems": {
+   "verdict": "exclude",
+   "group": null,
+   "reason": "Quantum many-body optimization review; quantum physics."
+  }
+ }
+}

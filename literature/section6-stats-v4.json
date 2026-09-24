@@ -1,0 +1,181 @@
+{
+ "generated": "2026-09-19",
+ "rules": "statslib.py v4 (see docstring); corpus frozen per PROJECT-STATE 2026-09-16",
+ "corpus": {
+  "total": 131,
+  "groups": {
+   "G1": 14,
+   "G2": 10,
+   "G3": 20,
+   "G4": 33,
+   "G5": 13,
+   "G6": 32,
+   "G7": 7,
+   "G8": 2
+  }
+ },
+ "research": {
+  "n": 112,
+  "non_research": 19,
+  "n_classifiable": 111,
+  "val_counts": {
+   "Sim.-only": 74,
+   "Multi-fidelity (sim.-based)": 3,
+   "Meas.-incl.": 20,
+   "Meas.+Sim.": 14,
+   "N/A": 1
+  }
+ },
+ "sim_strict": {
+  "k": 74,
+  "n": 111,
+  "pct": 66.7,
+  "ci": "95% CI 57–75%"
+ },
+ "sim_upper": {
+  "k": 77,
+  "n": 111,
+  "pct": 69.4,
+  "ci": "95% CI 60–77%"
+ },
+ "meas": {
+  "k": 34,
+  "n": 111,
+  "pct": 30.6,
+  "ci": "95% CI 23–40%"
+ },
+ "subgroups": {
+  "piml_dt": {
+   "n": 24,
+   "n_classifiable": 24,
+   "sim_strict": 13,
+   "sim_strict_pct": 54.2,
+   "sim_upper": 16,
+   "sim_upper_pct": 66.7,
+   "meas": 8,
+   "meas_pct": 33.3,
+   "ci_strict": "95% CI 35–72%",
+   "ci_upper": "95% CI 47–82%"
+  },
+  "data_driven": {
+   "n": 20,
+   "n_classifiable": 20,
+   "sim_strict": 14,
+   "sim_strict_pct": 70.0,
+   "sim_upper": 14,
+   "sim_upper_pct": 70.0,
+   "meas": 6,
+   "meas_pct": 30.0,
+   "ci_strict": "95% CI 48–85%",
+   "ci_upper": "95% CI 48–85%"
+  },
+  "classical": {
+   "n": 36,
+   "n_classifiable": 35,
+   "sim_strict": 27,
+   "sim_strict_pct": 77.1,
+   "sim_upper": 27,
+   "sim_upper_pct": 77.1,
+   "meas": 8,
+   "meas_pct": 22.9,
+   "ci_strict": "95% CI 61–88%",
+   "ci_upper": "95% CI 61–88%"
+  },
+  "enabling": {
+   "n": 32,
+   "n_classifiable": 32,
+   "sim_strict": 20,
+   "sim_strict_pct": 62.5,
+   "sim_upper": 20,
+   "sim_upper_pct": 62.5,
+   "meas": 12,
+   "meas_pct": 37.5,
+   "ci_strict": "95% CI 45–77%",
+   "ci_upper": "95% CI 45–77%"
+  }
+ },
+ "trend": {
+  "basis": "sim_strict share of classifiable research per year",
+  "yearly": [
+   {
+    "year": 1999,
+    "sim": 1,
+    "n": 1
+   },
+   {
+    "year": 2006,
+    "sim": 1,
+    "n": 1
+   },
+   {
+    "year": 2015,
+    "sim": 0,
+    "n": 1
+   },
+   {
+    "year": 2016,
+    "sim": 7,
+    "n": 8
+   },
+   {
+    "year": 2018,
+    "sim": 4,
+    "n": 4
+   },
+   {
+    "year": 2019,
+    "sim": 4,
+    "n": 7
+   },
+   {
+    "year": 2020,
+    "sim": 5,
+    "n": 8
+   },
+   {
+    "year": 2021,
+    "sim": 5,
+    "n": 7
+   },
+   {
+    "year": 2022,
+    "sim": 4,
+    "n": 6
+   },
+   {
+    "year": 2023,
+    "sim": 9,
+    "n": 10
+   },
+   {
+    "year": 2024,
+    "sim": 11,
+    "n": 15
+   },
+   {
+    "year": 2025,
+    "sim": 9,
+    "n": 18
+   },
+   {
+    "year": 2026,
+    "sim": 14,
+    "n": 25
+   }
+  ],
+  "cochran_armitage_z": -0.168,
+  "p_value": 0.8663
+ },
+ "funnel": {
+  "fetched_total": 64393,
+  "pool_total": 46239,
+  "tiers": {
+   "C": 44895,
+   "B": 1190,
+   "A": 154
+  },
+  "screening_candidates": 449,
+  "screening_capped": false,
+  "corpus_total": 131
+ }
+}

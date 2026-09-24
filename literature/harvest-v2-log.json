@@ -1,0 +1,125 @@
+{
+ "started": "2026-09-19 01:37 UTC",
+ "alt_sources": {
+  "s2": [
+   {
+    "qid": "Q8",
+    "fetched": 0,
+    "status": "FAIL: GET failed: https://api.semanticscholar.org/graph/v1/paper/search/bulk :: <Response [429]>"
+   },
+   {
+    "qid": "Q9",
+    "fetched": 0,
+    "status": "OK"
+   },
+   {
+    "qid": "Q10",
+    "fetched": 70,
+    "status": "OK"
+   },
+   {
+    "qid": "Q11",
+    "fetched": 0,
+    "status": "OK"
+   },
+   {
+    "qid": "Q12",
+    "fetched": 4,
+    "status": "OK"
+   },
+   {
+    "qid": "Q13",
+    "fetched": 0,
+    "status": "OK"
+   },
+   {
+    "qid": "Q14",
+    "fetched": 0,
+    "status": "OK"
+   }
+  ],
+  "crossref": [
+   {
+    "qid": "Q8",
+    "fetched": 5000,
+    "status": "OK"
+   },
+   {
+    "qid": "Q9",
+    "fetched": 5000,
+    "status": "OK"
+   },
+   {
+    "qid": "Q10",
+    "fetched": 5000,
+    "status": "OK"
+   },
+   {
+    "qid": "Q11",
+    "fetched": 5000,
+    "status": "OK"
+   },
+   {
+    "qid": "Q12",
+    "fetched": 5000,
+    "status": "OK"
+   },
+   {
+    "qid": "Q13",
+    "fetched": 5000,
+    "status": "OK"
+   },
+   {
+    "qid": "Q14",
+    "fetched": 5000,
+    "status": "OK"
+   }
+  ]
+ },
+ "merged_from_oa_caches": [
+  {
+   "qid": "Q1",
+   "rows": 7848
+  },
+  {
+   "qid": "Q2",
+   "rows": 120
+  },
+  {
+   "qid": "Q3",
+   "rows": 6949
+  },
+  {
+   "qid": "Q4",
+   "rows": 3421
+  },
+  {
+   "qid": "Q5",
+   "rows": 5247
+  },
+  {
+   "qid": "Q6",
+   "rows": 85
+  },
+  {
+   "qid": "Q7",
+   "rows": 4318
+  }
+ ],
+ "notes": [
+  "Q8-Q14 executed on Semantic Scholar + Crossref after OpenAlex shared-IP quota exhaustion",
+  "Q8/Q11 phrases tightened (quoted) 2026-09-19; broad-Q8 stale cache archived"
+ ],
+ "dedup": {
+  "fetched_total": 64393,
+  "pool_total": 46239
+ },
+ "pool_summary": {
+  "total": 46239,
+  "tiers": {
+   "C": 44895,
+   "B": 1190,
+   "A": 154
+  }
+ }
+}
